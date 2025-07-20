@@ -40,7 +40,7 @@ def fetch_all_sellers(asset, fiat, trade_type, pay_type):
 
         all_sellers.extend(data['data'])
         page += 1
-        time.sleep(1)  # Just to avoid rate limits
+        #time.sleep(1)  # Just to avoid rate limits
 
     return all_sellers
 
@@ -82,9 +82,9 @@ def save_to_json_file(sellers, asset, fiat):
 
 # Fetch and process
 asset = "USDT"
-fiat = "BDT"
+fiat = "VES"
 trade_type = "SELL"
-pay_type = "bKash"
+pay_type = "Banesco"
 
 all_sellers = fetch_all_sellers(asset, fiat, trade_type, pay_type)
 processed_sellers = process_sellers_to_json(all_sellers)

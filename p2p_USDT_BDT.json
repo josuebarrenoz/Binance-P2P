@@ -1,0 +1,5969 @@
+[
+    {
+        "seller": "Mr_Doller_Hunter",
+        "price": "130.00 BDT",
+        "available_usdt": "44.54",
+        "min_amount": "1000 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "upay"
+    },
+    {
+        "seller": "No_Npsb",
+        "price": "126.15 BDT",
+        "available_usdt": "207.00",
+        "min_amount": "25000 BDT",
+        "max_amount": "26000 BDT",
+        "completion_rate": "99.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "CASH-OUT-",
+        "price": "126.10 BDT",
+        "available_usdt": "87.55",
+        "min_amount": "438 BDT",
+        "max_amount": "1140 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "As_Sunnah_Exchange",
+        "price": "126.10 BDT",
+        "available_usdt": "800.00",
+        "min_amount": "49900 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "98.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "GLOBAL-EXCHANGE-P2P",
+        "price": "126.04 BDT",
+        "available_usdt": "600.00",
+        "min_amount": "20000 BDT",
+        "max_amount": "200000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Sruti-Kormokar-Misty",
+        "price": "126.03 BDT",
+        "available_usdt": "575973.96",
+        "min_amount": "20000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "99.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "TanvirAhmed-----",
+        "price": "126.01 BDT",
+        "available_usdt": "1591.74",
+        "min_amount": "20000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "97.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Fozlur-Traders",
+        "price": "126.00 BDT",
+        "available_usdt": "309.36",
+        "min_amount": "440 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "97.30%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "AbuMuaz_Exchange",
+        "price": "126.00 BDT",
+        "available_usdt": "2201.63",
+        "min_amount": "20000 BDT",
+        "max_amount": "500000 BDT",
+        "completion_rate": "98.20%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "EasyEcashBD",
+        "price": "126.00 BDT",
+        "available_usdt": "201.59",
+        "min_amount": "24995 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SuperFastTrade1",
+        "price": "125.92 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "19990 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Jakir_vai",
+        "price": "125.90 BDT",
+        "available_usdt": "10505.37",
+        "min_amount": "20000 BDT",
+        "max_amount": "100000 BDT",
+        "completion_rate": "98.50%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Exchange--Point",
+        "price": "125.85 BDT",
+        "available_usdt": "973149.69",
+        "min_amount": "10000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "98.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "-EzyLife-",
+        "price": "125.85 BDT",
+        "available_usdt": "191.52",
+        "min_amount": "7000 BDT",
+        "max_amount": "104000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "KANAMACHI",
+        "price": "125.80 BDT",
+        "available_usdt": "150.34",
+        "min_amount": "10000 BDT",
+        "max_amount": "48300 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Exchange--Point",
+        "price": "125.77 BDT",
+        "available_usdt": "876830.22",
+        "min_amount": "6000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "98.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "limanul",
+        "price": "125.62 BDT",
+        "available_usdt": "76.56",
+        "min_amount": "5000 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "99.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Hasbun_Allah",
+        "price": "125.46 BDT",
+        "available_usdt": "1143.84",
+        "min_amount": "1000 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "98.60%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "DollaR_SellinG_StorE",
+        "price": "125.46 BDT",
+        "available_usdt": "2060.83",
+        "min_amount": "10000 BDT",
+        "max_amount": "10000000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Pro_Merchant_563",
+        "price": "125.45 BDT",
+        "available_usdt": "16.06",
+        "min_amount": "2000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MdNawazSarif",
+        "price": "125.45 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "12000 BDT",
+        "completion_rate": "96.30%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "USDT_TRUSTED_ZONE",
+        "price": "125.45 BDT",
+        "available_usdt": "136.50",
+        "min_amount": "5000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "99.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Cryptoxchenge",
+        "price": "125.42 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "6700 BDT",
+        "completion_rate": "99.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "mahmud-",
+        "price": "125.40 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "2000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "95.80%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "---Fast-Exchange---",
+        "price": "125.37 BDT",
+        "available_usdt": "993113.20",
+        "min_amount": "2000 BDT",
+        "max_amount": "9999999 BDT",
+        "completion_rate": "98.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "limanul",
+        "price": "125.36 BDT",
+        "available_usdt": "7590.35",
+        "min_amount": "2000 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "99.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Crypto_Hub\u751f",
+        "price": "125.31 BDT",
+        "available_usdt": "40.91",
+        "min_amount": "3000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "99.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "HAFEZ-IBRAHIM-VAI",
+        "price": "125.26 BDT",
+        "available_usdt": "95.06",
+        "min_amount": "5000 BDT",
+        "max_amount": "6400 BDT",
+        "completion_rate": "89.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "---Fast-Exchange---",
+        "price": "125.26 BDT",
+        "available_usdt": "995240.96",
+        "min_amount": "1000 BDT",
+        "max_amount": "9999999 BDT",
+        "completion_rate": "98.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "AMATULLAH-TELECOM",
+        "price": "125.25 BDT",
+        "available_usdt": "943.85",
+        "min_amount": "40000 BDT",
+        "max_amount": "100000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Fastest_Crypto_serv",
+        "price": "125.25 BDT",
+        "available_usdt": "208.06",
+        "min_amount": "1000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "FAST__SERVICE__24H",
+        "price": "125.25 BDT",
+        "available_usdt": "54776.41",
+        "min_amount": "2000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "INSTANT_PAYMNT_24_BD",
+        "price": "125.23 BDT",
+        "available_usdt": "13770.77",
+        "min_amount": "30000 BDT",
+        "max_amount": "2000000 BDT",
+        "completion_rate": "99.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Bkash-Nagad_Cashout",
+        "price": "125.22 BDT",
+        "available_usdt": "406.33",
+        "min_amount": "1000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "ZamansEnterprise",
+        "price": "125.20 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "18000 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "alamin",
+        "price": "125.20 BDT",
+        "available_usdt": "320.00",
+        "min_amount": "20000 BDT",
+        "max_amount": "40000 BDT",
+        "completion_rate": "80.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "arfin_emon",
+        "price": "125.20 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "12520 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "83.40%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "KhNoyon",
+        "price": "125.20 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "60000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-a86d54ok",
+        "price": "125.20 BDT",
+        "available_usdt": "170.00",
+        "min_amount": "20000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "88.30%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Mutual_Trust_One",
+        "price": "125.20 BDT",
+        "available_usdt": "1566.22",
+        "min_amount": "5000 BDT",
+        "max_amount": "250000 BDT",
+        "completion_rate": "99.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SHAKIBCDYALL",
+        "price": "125.14 BDT",
+        "available_usdt": "40.00",
+        "min_amount": "450 BDT",
+        "max_amount": "4000 BDT",
+        "completion_rate": "93.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "USDT_BTC_HOUSE",
+        "price": "125.12 BDT",
+        "available_usdt": "10.50",
+        "min_amount": "438 BDT",
+        "max_amount": "1315 BDT",
+        "completion_rate": "92.40%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-c6105cso",
+        "price": "125.11 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "ABJALP2P121",
+        "price": "125.11 BDT",
+        "available_usdt": "984.05",
+        "min_amount": "1000 BDT",
+        "max_amount": "60000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "---EXCHANGER--",
+        "price": "125.11 BDT",
+        "available_usdt": "86281.54",
+        "min_amount": "3000 BDT",
+        "max_amount": "126200 BDT",
+        "completion_rate": "99.90%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Quickfly-P2P",
+        "price": "125.10 BDT",
+        "available_usdt": "15.07",
+        "min_amount": "500 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "90.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "CRYPTO_TIME_BD",
+        "price": "125.10 BDT",
+        "available_usdt": "11945.59",
+        "min_amount": "3000 BDT",
+        "max_amount": "500000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "ArtihC",
+        "price": "125.09 BDT",
+        "available_usdt": "30.00",
+        "min_amount": "990 BDT",
+        "max_amount": "3000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Jewel_Roy",
+        "price": "125.01 BDT",
+        "available_usdt": "2648.62",
+        "min_amount": "500 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "muzahid246",
+        "price": "125.00 BDT",
+        "available_usdt": "250.00",
+        "min_amount": "3000 BDT",
+        "max_amount": "32000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "RiotersGaming",
+        "price": "125.00 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-55ccf7q7",
+        "price": "125.00 BDT",
+        "available_usdt": "160.00",
+        "min_amount": "438 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Moni125",
+        "price": "125.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Digital_Trader-Bd",
+        "price": "125.00 BDT",
+        "available_usdt": "81.33",
+        "min_amount": "500 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-bf14dfuq",
+        "price": "125.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "81.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-2126fdwv",
+        "price": "125.00 BDT",
+        "available_usdt": "160.00",
+        "min_amount": "500 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-5e8544vp",
+        "price": "125.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "50.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-fc1780kv",
+        "price": "125.00 BDT",
+        "available_usdt": "20.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BD_Trader_247",
+        "price": "125.00 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Rakib_khan56",
+        "price": "125.00 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "RIDOY2023",
+        "price": "125.00 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "438 BDT",
+        "max_amount": "7000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "can_doing",
+        "price": "125.00 BDT",
+        "available_usdt": "160.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Foysalmjhf",
+        "price": "125.00 BDT",
+        "available_usdt": "871.43",
+        "min_amount": "5000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "76.50%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Shihab12mahmud",
+        "price": "125.00 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "500 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-52e6c1py",
+        "price": "125.00 BDT",
+        "available_usdt": "20000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "ABIR_TRADER_YT",
+        "price": "125.00 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "IAM-AAS",
+        "price": "125.00 BDT",
+        "available_usdt": "50000.00",
+        "min_amount": "450 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Anup2001",
+        "price": "125.00 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "77.80%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "INSTANT_SERVICE_MI",
+        "price": "125.00 BDT",
+        "available_usdt": "120.00",
+        "min_amount": "440 BDT",
+        "max_amount": "14640 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "YT_Buy_Sell",
+        "price": "125.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "618 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Infinity_Usd_Buyer",
+        "price": "125.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "HaidarBoss",
+        "price": "125.00 BDT",
+        "available_usdt": "49817.47",
+        "min_amount": "10000 BDT",
+        "max_amount": "300000 BDT",
+        "completion_rate": "95.30%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MD-SAJIB-ISLAM",
+        "price": "125.00 BDT",
+        "available_usdt": "60.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "87.50%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "SmNetworks",
+        "price": "125.00 BDT",
+        "available_usdt": "4000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "300000 BDT",
+        "completion_rate": "77.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-eaf612nh",
+        "price": "125.00 BDT",
+        "available_usdt": "60.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Toptec",
+        "price": "125.00 BDT",
+        "available_usdt": "6500.00",
+        "min_amount": "50000 BDT",
+        "max_amount": "200000 BDT",
+        "completion_rate": "94.50%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "P2P-a5a17ajg",
+        "price": "125.00 BDT",
+        "available_usdt": "25.00",
+        "min_amount": "3000 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "92.60%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Mashkur_Alam",
+        "price": "125.00 BDT",
+        "available_usdt": "118.39",
+        "min_amount": "5000 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "95.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "FRIENDS_CLUB",
+        "price": "125.00 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "97.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-Fastpay-exchange",
+        "price": "125.00 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "88.20%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "INSTANT_PAY_24H",
+        "price": "125.00 BDT",
+        "available_usdt": "79668.19",
+        "min_amount": "3000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BKASH-NAGAD_AGENT",
+        "price": "125.00 BDT",
+        "available_usdt": "436.68",
+        "min_amount": "1000 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "\u4e97CryptoX",
+        "price": "125.00 BDT",
+        "available_usdt": "18533.85",
+        "min_amount": "500 BDT",
+        "max_amount": "300000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "---Fast-Exchange---",
+        "price": "125.00 BDT",
+        "available_usdt": "89038.77",
+        "min_amount": "438 BDT",
+        "max_amount": "250000 BDT",
+        "completion_rate": "98.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-97033cef",
+        "price": "124.99 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "12500 BDT",
+        "completion_rate": "93.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "TetherZone",
+        "price": "124.97 BDT",
+        "available_usdt": "4206.05",
+        "min_amount": "100000 BDT",
+        "max_amount": "1000000 BDT",
+        "completion_rate": "99.20%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "FAST__SERVICE__24H",
+        "price": "124.96 BDT",
+        "available_usdt": "855455.75",
+        "min_amount": "500 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "limanul",
+        "price": "124.95 BDT",
+        "available_usdt": "48510.20",
+        "min_amount": "1000 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "99.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Fastexchange",
+        "price": "124.95 BDT",
+        "available_usdt": "228.74",
+        "min_amount": "500 BDT",
+        "max_amount": "100000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-monir",
+        "price": "124.94 BDT",
+        "available_usdt": "20.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "On-line-",
+        "price": "124.94 BDT",
+        "available_usdt": "18779.10",
+        "min_amount": "438 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "INSTANT_PAY_24H",
+        "price": "124.91 BDT",
+        "available_usdt": "84725.27",
+        "min_amount": "1000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "StarConstruction",
+        "price": "124.86 BDT",
+        "available_usdt": "1334.15",
+        "min_amount": "100000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "91.20%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "siyam39",
+        "price": "124.85 BDT",
+        "available_usdt": "4000.00",
+        "min_amount": "4380 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "50.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "monir08",
+        "price": "124.85 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "94.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Shuvo_Islam25",
+        "price": "124.84 BDT",
+        "available_usdt": "120.00",
+        "min_amount": "438 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MD_IBRAHIM_KHALIL_DM",
+        "price": "124.82 BDT",
+        "available_usdt": "54295.37",
+        "min_amount": "1000 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "99.30%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "INSTANT_PAY_24H",
+        "price": "124.81 BDT",
+        "available_usdt": "80833.56",
+        "min_amount": "800 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "____HALAL-TJARAH____",
+        "price": "124.80 BDT",
+        "available_usdt": "159.55",
+        "min_amount": "438 BDT",
+        "max_amount": "29415 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "INSTANT_PAY_24H",
+        "price": "124.75 BDT",
+        "available_usdt": "81379.63",
+        "min_amount": "500 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BDT-USDT-EXCHANGE",
+        "price": "124.70 BDT",
+        "available_usdt": "120.00",
+        "min_amount": "1500 BDT",
+        "max_amount": "100000 BDT",
+        "completion_rate": "96.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-8ddf15hk",
+        "price": "124.64 BDT",
+        "available_usdt": "250.00",
+        "min_amount": "2000 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "95.50%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-cryptoshaon",
+        "price": "124.62 BDT",
+        "available_usdt": "172.66",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Md_Al_Faruk",
+        "price": "124.60 BDT",
+        "available_usdt": "96.44",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Currency_Link",
+        "price": "124.60 BDT",
+        "available_usdt": "6879.45",
+        "min_amount": "10000 BDT",
+        "max_amount": "150500 BDT",
+        "completion_rate": "98.50%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "USDT-To-Exchange-BDT",
+        "price": "124.60 BDT",
+        "available_usdt": "949694.04",
+        "min_amount": "500 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "99.90%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-fb1702am",
+        "price": "124.57 BDT",
+        "available_usdt": "150.00",
+        "min_amount": "438 BDT",
+        "max_amount": "19000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "TraderDuniya",
+        "price": "124.57 BDT",
+        "available_usdt": "60.00",
+        "min_amount": "438 BDT",
+        "max_amount": "7890 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SmmChep",
+        "price": "124.54 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MXShakil62",
+        "price": "124.51 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "S_M_Hridoy_Chowdhury",
+        "price": "124.50 BDT",
+        "available_usdt": "165.00",
+        "min_amount": "600 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-6d2cf8ip",
+        "price": "124.50 BDT",
+        "available_usdt": "125.00",
+        "min_amount": "2000 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-44aa63q6",
+        "price": "124.50 BDT",
+        "available_usdt": "5.81",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "80.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-d8bee8o4",
+        "price": "124.50 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "500000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "JOYtrusted",
+        "price": "124.50 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1250 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Nayem2117",
+        "price": "124.50 BDT",
+        "available_usdt": "40.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Ismailahmedjisan",
+        "price": "124.50 BDT",
+        "available_usdt": "250.00",
+        "min_amount": "450 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "MdMorshedulIslam",
+        "price": "124.50 BDT",
+        "available_usdt": "4473.60",
+        "min_amount": "900 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "82.40%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Varifyshopbd",
+        "price": "124.50 BDT",
+        "available_usdt": "544535.83",
+        "min_amount": "100000 BDT",
+        "max_amount": "200000 BDT",
+        "completion_rate": "89.60%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "TradingbyAlamgir",
+        "price": "124.49 BDT",
+        "available_usdt": "231.01",
+        "min_amount": "500 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "94.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Ariyansupershop",
+        "price": "124.45 BDT",
+        "available_usdt": "55.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "4200 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SAGOR_MEGLA_BD_1",
+        "price": "124.44 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-f65196bf",
+        "price": "124.40 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "80.80%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "ToM-ToM-_-Buy-SeLL",
+        "price": "124.40 BDT",
+        "available_usdt": "1756.00",
+        "min_amount": "20000 BDT",
+        "max_amount": "200000 BDT",
+        "completion_rate": "99.60%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "P2P-8a7e6byf",
+        "price": "124.38 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "MD_IBRAHIM_KHALIL_DM",
+        "price": "124.33 BDT",
+        "available_usdt": "1474.72",
+        "min_amount": "600 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "99.30%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-c5ee70jr",
+        "price": "124.32 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "20000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "66.70%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-53e2a5bc",
+        "price": "124.30 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "RS_RAJO_KHAN",
+        "price": "124.30 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "700 BDT",
+        "completion_rate": "88.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Rafi_Enterprice",
+        "price": "124.30 BDT",
+        "available_usdt": "6311.96",
+        "min_amount": "500 BDT",
+        "max_amount": "12000 BDT",
+        "completion_rate": "81.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Freelancer_Saidul",
+        "price": "124.24 BDT",
+        "available_usdt": "441.66",
+        "min_amount": "5000 BDT",
+        "max_amount": "60000 BDT",
+        "completion_rate": "75.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "95Best_Exchanger_24",
+        "price": "124.17 BDT",
+        "available_usdt": "440159.20",
+        "min_amount": "9000 BDT",
+        "max_amount": "700000 BDT",
+        "completion_rate": "97.80%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2BTrader",
+        "price": "124.12 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "24000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "mdSimil",
+        "price": "124.12 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "EXCHANGE_USD-T",
+        "price": "124.12 BDT",
+        "available_usdt": "802.67",
+        "min_amount": "25000 BDT",
+        "max_amount": "600305 BDT",
+        "completion_rate": "99.90%",
+        "trade_method": "upay"
+    },
+    {
+        "seller": "kakabd",
+        "price": "124.10 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "2000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "80.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Dollarexchang2025",
+        "price": "124.09 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "badolkingcom",
+        "price": "124.03 BDT",
+        "available_usdt": "20.00",
+        "min_amount": "440 BDT",
+        "max_amount": "2300 BDT",
+        "completion_rate": "88.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "USDT-HOUSE-SYLHET",
+        "price": "124.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "91.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MONIR_KINGS_LEADER",
+        "price": "124.00 BDT",
+        "available_usdt": "400.00",
+        "min_amount": "30000 BDT",
+        "max_amount": "49000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MONIR_KINGS_LEADER",
+        "price": "124.00 BDT",
+        "available_usdt": "400.00",
+        "min_amount": "30000 BDT",
+        "max_amount": "49000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-c10342oc",
+        "price": "124.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "12400 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Shoiab_Exchange",
+        "price": "124.00 BDT",
+        "available_usdt": "80.83",
+        "min_amount": "500 BDT",
+        "max_amount": "3000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "upay"
+    },
+    {
+        "seller": "Shakilmia1",
+        "price": "124.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "2000 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MS-Shajahan-Store",
+        "price": "124.00 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "OneShopx",
+        "price": "124.00 BDT",
+        "available_usdt": "18.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-4a0339x9",
+        "price": "124.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "KINGCRYPTORAJA",
+        "price": "124.00 BDT",
+        "available_usdt": "230.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "shamim154",
+        "price": "124.00 BDT",
+        "available_usdt": "5000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "60000 BDT",
+        "completion_rate": "92.40%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-884aa5ps",
+        "price": "124.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Shahid1010",
+        "price": "124.00 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Joydipu1234",
+        "price": "124.00 BDT",
+        "available_usdt": "20.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2500 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-533d4cnp",
+        "price": "124.00 BDT",
+        "available_usdt": "20000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "cyptismartnilphamri",
+        "price": "124.00 BDT",
+        "available_usdt": "978.63",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "95.20%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "Mdsahanjr",
+        "price": "124.00 BDT",
+        "available_usdt": "20.00",
+        "min_amount": "450 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Pro-Fast_Release",
+        "price": "124.00 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "500 BDT",
+        "max_amount": "1250 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Rj_Raj_Hassan",
+        "price": "124.00 BDT",
+        "available_usdt": "19877.05",
+        "min_amount": "5000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-fcbb73tk",
+        "price": "124.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "450 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "RizuHossain",
+        "price": "124.00 BDT",
+        "available_usdt": "9416.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "130000 BDT",
+        "completion_rate": "81.90%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "Verified-Marchant",
+        "price": "124.00 BDT",
+        "available_usdt": "9655.88",
+        "min_amount": "500 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "\u4e97CryptoX",
+        "price": "124.00 BDT",
+        "available_usdt": "77502.47",
+        "min_amount": "438 BDT",
+        "max_amount": "300000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Tanvir041",
+        "price": "123.99 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "70.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-db249asp",
+        "price": "123.95 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "9916 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-eb8e40um",
+        "price": "123.95 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "12000 BDT",
+        "completion_rate": "50.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Successsquad",
+        "price": "123.92 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "kumaresmondal",
+        "price": "123.90 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "900 BDT",
+        "max_amount": "1200 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BDExchange",
+        "price": "123.72 BDT",
+        "available_usdt": "1939405.58",
+        "min_amount": "440 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "First_Buy_Sell_97",
+        "price": "123.69 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "AllahBorosha",
+        "price": "123.69 BDT",
+        "available_usdt": "161.00",
+        "min_amount": "438 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "87.50%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "95Best_Exchanger_24",
+        "price": "123.66 BDT",
+        "available_usdt": "148759.16",
+        "min_amount": "7000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "97.80%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "TetherZone",
+        "price": "123.65 BDT",
+        "available_usdt": "3246.40",
+        "min_amount": "450 BDT",
+        "max_amount": "500000 BDT",
+        "completion_rate": "99.20%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "EXCHANGE_USD-T",
+        "price": "123.61 BDT",
+        "available_usdt": "86566.53",
+        "min_amount": "4000 BDT",
+        "max_amount": "500000 BDT",
+        "completion_rate": "99.90%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "GmImran01",
+        "price": "123.60 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Itscool007",
+        "price": "123.57 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "RifatAli",
+        "price": "123.56 BDT",
+        "available_usdt": "85.10",
+        "min_amount": "490 BDT",
+        "max_amount": "10515 BDT",
+        "completion_rate": "83.40%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "TpTTania",
+        "price": "123.53 BDT",
+        "available_usdt": "5000.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "84.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MD_IBRAHIM_KHALIL_DM",
+        "price": "123.51 BDT",
+        "available_usdt": "40826.10",
+        "min_amount": "5000 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "99.30%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Ridoy",
+        "price": "123.50 BDT",
+        "available_usdt": "91.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-817b2eqa",
+        "price": "123.50 BDT",
+        "available_usdt": "150.00",
+        "min_amount": "500 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "NIHAN_EXCHANGER_LTD",
+        "price": "123.50 BDT",
+        "available_usdt": "468.80",
+        "min_amount": "500 BDT",
+        "max_amount": "61250 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "Exchange_24H",
+        "price": "123.50 BDT",
+        "available_usdt": "278990.32",
+        "min_amount": "500 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "upay"
+    },
+    {
+        "seller": "P2P-e1f066st",
+        "price": "123.48 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "9638 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "P2P-3beb5dr4",
+        "price": "123.47 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1200 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SHUVO-SHAKIL",
+        "price": "123.44 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "rasad665",
+        "price": "123.42 BDT",
+        "available_usdt": "2000.00",
+        "min_amount": "19000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-a0156bf1",
+        "price": "123.25 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "REZU_27",
+        "price": "123.20 BDT",
+        "available_usdt": "976.00",
+        "min_amount": "438 BDT",
+        "max_amount": "125000 BDT",
+        "completion_rate": "93.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-69dd7eeh",
+        "price": "123.19 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "3000 BDT",
+        "completion_rate": "91.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-c8f5dafr",
+        "price": "123.13 BDT",
+        "available_usdt": "103.63",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "75.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Bkash-Agent06",
+        "price": "123.10 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "2000 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "MdRashed2338",
+        "price": "123.10 BDT",
+        "available_usdt": "1978.32",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "82.50%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "HASAN416",
+        "price": "123.07 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "91.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BUY24_7",
+        "price": "123.00 BDT",
+        "available_usdt": "320.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "39000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-9e9c99wz",
+        "price": "123.00 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "20000 BDT",
+        "max_amount": "57630 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-6d7fffcm",
+        "price": "123.00 BDT",
+        "available_usdt": "300.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "MD_PAILOT",
+        "price": "123.00 BDT",
+        "available_usdt": "652.70",
+        "min_amount": "2000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "AbdulAoual",
+        "price": "123.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "13000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-2521997b",
+        "price": "123.00 BDT",
+        "available_usdt": "36.05",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "91.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "sourov",
+        "price": "123.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Tashik020",
+        "price": "123.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "87.50%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-e7ce02ys",
+        "price": "123.00 BDT",
+        "available_usdt": "745.27",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "ILHAM_KHAN_ALIF",
+        "price": "123.00 BDT",
+        "available_usdt": "170.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "87.50%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Exchanger13e44",
+        "price": "122.98 BDT",
+        "available_usdt": "60.00",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-60e4a0sd",
+        "price": "122.94 BDT",
+        "available_usdt": "700.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "71.50%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "winx_club",
+        "price": "122.91 BDT",
+        "available_usdt": "1238.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "80.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "shishirahamed",
+        "price": "122.89 BDT",
+        "available_usdt": "207.00",
+        "min_amount": "438 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "mehedi_Hub",
+        "price": "122.85 BDT",
+        "available_usdt": "94.92",
+        "min_amount": "500 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "83.40%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-5d536chp",
+        "price": "122.80 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "80.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "LimonTraderbd",
+        "price": "122.75 BDT",
+        "available_usdt": "20.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "All-USD-Buy-Sell",
+        "price": "122.70 BDT",
+        "available_usdt": "496.41",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "rayzorrrr",
+        "price": "122.65 BDT",
+        "available_usdt": "192.05",
+        "min_amount": "1000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "90.50%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "TrustD-USDT-BUY-SELL",
+        "price": "122.53 BDT",
+        "available_usdt": "150.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "goodboy12345678",
+        "price": "122.52 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "438 BDT",
+        "max_amount": "3000 BDT",
+        "completion_rate": "82.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "IslamTelecom",
+        "price": "122.50 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "12000 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-f5162em3",
+        "price": "122.50 BDT",
+        "available_usdt": "92.00",
+        "min_amount": "500 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-f8d177jq",
+        "price": "122.50 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "AliTradersexpress",
+        "price": "122.50 BDT",
+        "available_usdt": "3500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "93.40%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Davil22",
+        "price": "122.50 BDT",
+        "available_usdt": "80.00",
+        "min_amount": "440 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BD-MOLS",
+        "price": "122.44 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "HASAN_RAJ",
+        "price": "122.22 BDT",
+        "available_usdt": "1637.44",
+        "min_amount": "500 BDT",
+        "max_amount": "300000 BDT",
+        "completion_rate": "99.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-9bdeecwv",
+        "price": "122.20 BDT",
+        "available_usdt": "123.00",
+        "min_amount": "438 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "imruls",
+        "price": "122.20 BDT",
+        "available_usdt": "30.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-9e3002ww",
+        "price": "122.20 BDT",
+        "available_usdt": "250.00",
+        "min_amount": "438 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "mdfaridulislam179",
+        "price": "122.20 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Mahdishop",
+        "price": "122.20 BDT",
+        "available_usdt": "2000.00",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "66.70%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Mdjuned424",
+        "price": "122.20 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "TpTTanvir",
+        "price": "122.20 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "fejar_alan",
+        "price": "122.19 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "12208 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BDExchange",
+        "price": "122.19 BDT",
+        "available_usdt": "947014.24",
+        "min_amount": "438 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Abir_Trader_bosss",
+        "price": "122.13 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Gadgetscode",
+        "price": "122.11 BDT",
+        "available_usdt": "150.00",
+        "min_amount": "500 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Farhan_Nehal",
+        "price": "122.10 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Safe_trade1",
+        "price": "122.10 BDT",
+        "available_usdt": "490.00",
+        "min_amount": "438 BDT",
+        "max_amount": "60000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Onlineexperts",
+        "price": "122.10 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "2500 BDT",
+        "completion_rate": "97.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "ANIK_VI",
+        "price": "122.04 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-aeddb65j",
+        "price": "122.02 BDT",
+        "available_usdt": "100.20",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "HASAN_RAJ",
+        "price": "122.02 BDT",
+        "available_usdt": "1642.89",
+        "min_amount": "8000 BDT",
+        "max_amount": "200000 BDT",
+        "completion_rate": "99.80%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "nayeminsider",
+        "price": "122.00 BDT",
+        "available_usdt": "3000.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "360000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-177607uf",
+        "price": "122.00 BDT",
+        "available_usdt": "50000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "85.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Ask_As1",
+        "price": "122.00 BDT",
+        "available_usdt": "1480.10",
+        "min_amount": "438 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "80.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-c82cd1tc",
+        "price": "122.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "3000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Jubaida-Jahan",
+        "price": "122.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-2e1ef4fr",
+        "price": "122.00 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Elite-Exchange-1",
+        "price": "122.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "NillChowdury",
+        "price": "122.00 BDT",
+        "available_usdt": "10000.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "X_Elon_Musk",
+        "price": "122.00 BDT",
+        "available_usdt": "120.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "92.90%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Md_Jayed",
+        "price": "122.00 BDT",
+        "available_usdt": "60.00",
+        "min_amount": "438 BDT",
+        "max_amount": "8000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "um_fam",
+        "price": "122.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "150000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "sadiqulamin",
+        "price": "122.00 BDT",
+        "available_usdt": "112.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Rashidkhan124",
+        "price": "122.00 BDT",
+        "available_usdt": "40.98",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "imamul1122I",
+        "price": "122.00 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "500 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Sohan244",
+        "price": "122.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "450 BDT",
+        "max_amount": "12000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-b29dd1wj",
+        "price": "122.00 BDT",
+        "available_usdt": "75.00",
+        "min_amount": "438 BDT",
+        "max_amount": "9000 BDT",
+        "completion_rate": "76.50%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-328301fk",
+        "price": "122.00 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "MohanAhmed",
+        "price": "122.00 BDT",
+        "available_usdt": "48.19",
+        "min_amount": "500 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-0edcc52u",
+        "price": "122.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "85.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BPOBD",
+        "price": "121.99 BDT",
+        "available_usdt": "1500.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-fab750pz",
+        "price": "121.98 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "95.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Ashadul33",
+        "price": "121.92 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "438 BDT",
+        "max_amount": "7000 BDT",
+        "completion_rate": "92.40%",
+        "trade_method": "upay"
+    },
+    {
+        "seller": "P2P-f0c4c578",
+        "price": "121.90 BDT",
+        "available_usdt": "121.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-203266lo",
+        "price": "121.89 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1200 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-2a6fd9lk",
+        "price": "121.87 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "500 BDT",
+        "max_amount": "24374 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "NO_EXTRA_BDT",
+        "price": "121.85 BDT",
+        "available_usdt": "5000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "66.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Fastcrypto_buy_sell",
+        "price": "121.82 BDT",
+        "available_usdt": "30.00",
+        "min_amount": "438 BDT",
+        "max_amount": "4000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "--MUSTAK--",
+        "price": "121.79 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "95.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-b5fb61tn",
+        "price": "121.78 BDT",
+        "available_usdt": "30.00",
+        "min_amount": "500 BDT",
+        "max_amount": "3000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-0893d5dm",
+        "price": "121.74 BDT",
+        "available_usdt": "15.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-3018c5du",
+        "price": "121.71 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2palkhan00",
+        "price": "121.69 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1200 BDT",
+        "completion_rate": "75.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-e35091ue",
+        "price": "121.68 BDT",
+        "available_usdt": "20.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "85.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-b29737zk",
+        "price": "121.67 BDT",
+        "available_usdt": "438.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "95.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MdApelMahmdu",
+        "price": "121.66 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "66.70%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-a9eda4gg",
+        "price": "121.66 BDT",
+        "available_usdt": "250.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "ATRO-TRADES",
+        "price": "121.65 BDT",
+        "available_usdt": "5000.00",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Omor56",
+        "price": "121.60 BDT",
+        "available_usdt": "41.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MdArafathossen12",
+        "price": "121.59 BDT",
+        "available_usdt": "31.85",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "96.70%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Raiyanzxc",
+        "price": "121.59 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Mahmud55",
+        "price": "121.57 BDT",
+        "available_usdt": "42.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-808ec7mr",
+        "price": "121.56 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SAGOR_VAI01",
+        "price": "121.56 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "95.30%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "TokenCenter",
+        "price": "121.55 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MdMajadulIslam01",
+        "price": "121.54 BDT",
+        "available_usdt": "5000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "89.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Bismillah_Traders07",
+        "price": "121.53 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "ANIK_BD71",
+        "price": "121.52 BDT",
+        "available_usdt": "15.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "83.40%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Dellmarkcorporation",
+        "price": "121.52 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "84.70%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "USDT_To_EXchange1",
+        "price": "121.51 BDT",
+        "available_usdt": "50000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "DoNotLoseUrCaracter",
+        "price": "121.50 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "2000 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Md-Zihad",
+        "price": "121.50 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2Pind",
+        "price": "121.49 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "86.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-961e4988",
+        "price": "121.47 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "440 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-cf5708yy",
+        "price": "121.47 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "24300 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "P2P-36e4d46x",
+        "price": "121.44 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "SADIQUZZAMANPASHA",
+        "price": "121.44 BDT",
+        "available_usdt": "5000.00",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "94.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "skrnxt",
+        "price": "121.43 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "md_khalilur_rahman55",
+        "price": "121.40 BDT",
+        "available_usdt": "300.00",
+        "min_amount": "450 BDT",
+        "max_amount": "35000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-aa8438oy",
+        "price": "121.34 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Exosoft",
+        "price": "121.20 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "66.70%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "nafiz_trader",
+        "price": "121.15 BDT",
+        "available_usdt": "1487.31",
+        "min_amount": "500 BDT",
+        "max_amount": "100000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SUPER_SERVICE_03",
+        "price": "121.01 BDT",
+        "available_usdt": "210.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "joymondal",
+        "price": "121.00 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-b26b57fu",
+        "price": "121.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-4e0d47jc",
+        "price": "121.00 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "23600 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-ef04aepy",
+        "price": "121.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "100000 BDT",
+        "completion_rate": "92.40%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "P2P-79e9ffs1",
+        "price": "121.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-8327cbcj",
+        "price": "121.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "JRDPRITOM",
+        "price": "121.00 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "01791109920",
+        "price": "121.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "80.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-2d31b5de",
+        "price": "120.99 BDT",
+        "available_usdt": "16.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MdRifatSarkar",
+        "price": "120.65 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Rasel-Raihan-780",
+        "price": "120.62 BDT",
+        "available_usdt": "40.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Mustakim1222",
+        "price": "120.56 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "60000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-9c6952vr",
+        "price": "120.51 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "bdcryptoboss",
+        "price": "120.50 BDT",
+        "available_usdt": "7352.98",
+        "min_amount": "25000 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "NSBP2P",
+        "price": "120.50 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-1138cfrl",
+        "price": "120.50 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-6934c5km",
+        "price": "120.50 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1205 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "-----Aditto2000-----",
+        "price": "120.50 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "92.40%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "1Feroz12",
+        "price": "120.49 BDT",
+        "available_usdt": "300.00",
+        "min_amount": "438 BDT",
+        "max_amount": "36200 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "mdrakibhassan560",
+        "price": "120.48 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "12000 BDT",
+        "completion_rate": "91.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "bdtking12",
+        "price": "120.43 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "95.50%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Robialom",
+        "price": "120.18 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "5500 BDT",
+        "max_amount": "60000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-bd63e1dp",
+        "price": "120.10 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "78.60%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-22d8defd",
+        "price": "120.10 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-a5f0138y",
+        "price": "120.08 BDT",
+        "available_usdt": "102.00",
+        "min_amount": "438 BDT",
+        "max_amount": "12000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "shopnilporan",
+        "price": "120.04 BDT",
+        "available_usdt": "68.26",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-fc35deqk",
+        "price": "120.02 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "emon136",
+        "price": "120.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "im_shaikh",
+        "price": "120.00 BDT",
+        "available_usdt": "2500.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "sahabsellar",
+        "price": "120.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "2000 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "bd_trade1221",
+        "price": "120.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "7000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-9bd0d1qx",
+        "price": "120.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "440 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Akter_Faruk_P2P",
+        "price": "120.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "2000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "96.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "binanci-Trader",
+        "price": "120.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-aa130fwg",
+        "price": "120.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Bestexchange_BD",
+        "price": "120.00 BDT",
+        "available_usdt": "996.32",
+        "min_amount": "438 BDT",
+        "max_amount": "12000 BDT",
+        "completion_rate": "96.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-bf54bd6j",
+        "price": "120.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "jhraju1233",
+        "price": "120.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "88.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "cryptoraj1",
+        "price": "120.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "ShahinFokir",
+        "price": "120.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-862014wy",
+        "price": "120.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "95.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "NazmulOpu",
+        "price": "120.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "88.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "sujanusdt",
+        "price": "120.00 BDT",
+        "available_usdt": "120.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "80.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "MAHIRSTORE",
+        "price": "120.00 BDT",
+        "available_usdt": "112.38",
+        "min_amount": "438 BDT",
+        "max_amount": "14400 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "KH_AN_7",
+        "price": "120.00 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "81.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "rubel",
+        "price": "120.00 BDT",
+        "available_usdt": "15.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Sagar11234",
+        "price": "120.00 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BishwA7",
+        "price": "120.00 BDT",
+        "available_usdt": "250.00",
+        "min_amount": "450 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Amitto2000",
+        "price": "120.00 BDT",
+        "available_usdt": "4772.41",
+        "min_amount": "10000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Arifa5552",
+        "price": "120.00 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "440 BDT",
+        "max_amount": "1500 BDT",
+        "completion_rate": "83.40%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "Al_Madina_Exchange",
+        "price": "120.00 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2500 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Rupom_Tech_Tips",
+        "price": "120.00 BDT",
+        "available_usdt": "20.00",
+        "min_amount": "500 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "86.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "RDX_TREADER",
+        "price": "120.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "TRADER__TASIN",
+        "price": "120.00 BDT",
+        "available_usdt": "25.00",
+        "min_amount": "438 BDT",
+        "max_amount": "3000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Mahim_TM",
+        "price": "120.00 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1200 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-2aa4f4bq",
+        "price": "120.00 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1200 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "1rahad",
+        "price": "120.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "P2P-645d25jm",
+        "price": "120.00 BDT",
+        "available_usdt": "213.07",
+        "min_amount": "500 BDT",
+        "max_amount": "100000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "\u4e97CryptoX",
+        "price": "120.00 BDT",
+        "available_usdt": "1999799.13",
+        "min_amount": "10000 BDT",
+        "max_amount": "300000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "P2P-6e79bfga",
+        "price": "119.99 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "P2P-fde50c55",
+        "price": "119.97 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-c4fe483v",
+        "price": "119.97 BDT",
+        "available_usdt": "40.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "95.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-cb7759ah",
+        "price": "119.93 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "_Alhamdulillah",
+        "price": "119.85 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "98.40%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "J-R-TELECOM",
+        "price": "119.80 BDT",
+        "available_usdt": "10848.34",
+        "min_amount": "2000 BDT",
+        "max_amount": "1050000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "P2P-43bddepc",
+        "price": "119.75 BDT",
+        "available_usdt": "180.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-4c2288r8",
+        "price": "119.60 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "60000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Mahathir_Babu",
+        "price": "119.59 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "TajelTamim",
+        "price": "119.58 BDT",
+        "available_usdt": "150.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-2d37e41b",
+        "price": "119.55 BDT",
+        "available_usdt": "5000.00",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "mbcboxarmehedi",
+        "price": "119.54 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "91.40%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-a49762m6",
+        "price": "119.54 BDT",
+        "available_usdt": "25.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "shahadat_10",
+        "price": "119.52 BDT",
+        "available_usdt": "300.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Khan",
+        "price": "119.51 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "1971dj",
+        "price": "119.50 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1800 BDT",
+        "completion_rate": "91.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-930c0112",
+        "price": "119.50 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "alltimefast",
+        "price": "119.50 BDT",
+        "available_usdt": "150.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-2e3a06cw",
+        "price": "119.50 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-a1e6f7ul",
+        "price": "119.50 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "GOOD-SERVICE-247",
+        "price": "119.50 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Joy3123",
+        "price": "119.49 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "90.50%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "____RaFi______",
+        "price": "119.48 BDT",
+        "available_usdt": "170.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Good-Boy-308",
+        "price": "119.47 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "80.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-24c6d7lc",
+        "price": "119.47 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "badluckhr",
+        "price": "119.41 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-4a4456dq",
+        "price": "119.39 BDT",
+        "available_usdt": "102.00",
+        "min_amount": "500 BDT",
+        "max_amount": "12000 BDT",
+        "completion_rate": "84.30%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-63c1d22v",
+        "price": "119.35 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "AkashBaba24",
+        "price": "119.34 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-a85c6dng",
+        "price": "119.32 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "500 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BRIJUL",
+        "price": "119.23 BDT",
+        "available_usdt": "750.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "96.50%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "ITs_Crypto_man",
+        "price": "119.20 BDT",
+        "available_usdt": "80.00",
+        "min_amount": "3000 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "85.80%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "AlexRidoy",
+        "price": "119.10 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Minhaj2002",
+        "price": "119.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1200 BDT",
+        "completion_rate": "81.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Tuhin1726",
+        "price": "119.00 BDT",
+        "available_usdt": "495.96",
+        "min_amount": "438 BDT",
+        "max_amount": "60000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Rongtuli_Shop",
+        "price": "119.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "87.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Xirno",
+        "price": "119.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "11900 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-2bd96e9o",
+        "price": "119.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "P2P-ab5919m9",
+        "price": "119.00 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-0ff79cg0",
+        "price": "119.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-ca34abf1",
+        "price": "119.00 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "97.50%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "BD_Hassan",
+        "price": "119.00 BDT",
+        "available_usdt": "99915.69",
+        "min_amount": "50000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "86.70%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "BD_Hassan",
+        "price": "119.00 BDT",
+        "available_usdt": "99915.69",
+        "min_amount": "50000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "86.70%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "P2P-c48829yv",
+        "price": "118.81 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "SafeTransac",
+        "price": "118.58 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "12000 BDT",
+        "completion_rate": "50.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Mr_Asif",
+        "price": "118.53 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-eb6a99lc",
+        "price": "118.34 BDT",
+        "available_usdt": "102.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "93.20%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "MdtajulislamBD",
+        "price": "118.18 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "75.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Cryptolover009260",
+        "price": "118.02 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-85661d6c",
+        "price": "118.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "12000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "KmMonju",
+        "price": "118.00 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-e06489ej",
+        "price": "118.00 BDT",
+        "available_usdt": "150.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Tanjimbd71",
+        "price": "118.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-0a24e3ss",
+        "price": "118.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "smnetworkbd",
+        "price": "118.00 BDT",
+        "available_usdt": "120.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "AB-SIDDIQUE",
+        "price": "118.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5999 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Rakibul20",
+        "price": "118.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "DINAJPUR-CRYPTO2025",
+        "price": "118.00 BDT",
+        "available_usdt": "150.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Md-Lanju-Hasan",
+        "price": "118.00 BDT",
+        "available_usdt": "10000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "NiloyMohammadProtik",
+        "price": "117.95 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-e9b0967t",
+        "price": "117.69 BDT",
+        "available_usdt": "182.05",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "75.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Talukder-Trading",
+        "price": "117.60 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-6e60c2tt",
+        "price": "117.54 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "76.50%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "AsifAbdullah24",
+        "price": "117.53 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "400000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-29bc75jj",
+        "price": "117.52 BDT",
+        "available_usdt": "5500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "87.50%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "crypto_524552",
+        "price": "117.52 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "88.90%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Naim2130",
+        "price": "117.52 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Rush-jush",
+        "price": "117.51 BDT",
+        "available_usdt": "75.64",
+        "min_amount": "438 BDT",
+        "max_amount": "9000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Free-Motion",
+        "price": "117.50 BDT",
+        "available_usdt": "250.00",
+        "min_amount": "24000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Faysal_Baby",
+        "price": "117.50 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "KhanRakib7254",
+        "price": "117.50 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "80.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MD-SAJOL-BOSS",
+        "price": "117.44 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "440 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MdSelim19",
+        "price": "117.40 BDT",
+        "available_usdt": "101.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-71fc52sp",
+        "price": "117.34 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-97f1fdcy",
+        "price": "117.34 BDT",
+        "available_usdt": "5000.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "66.70%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-e09dden6",
+        "price": "117.30 BDT",
+        "available_usdt": "24000.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "24000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-e51191dy",
+        "price": "117.23 BDT",
+        "available_usdt": "2500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-71711czo",
+        "price": "117.20 BDT",
+        "available_usdt": "9866.15",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "NijhumTalukder",
+        "price": "117.20 BDT",
+        "available_usdt": "35000.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "35000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "",
+        "price": "117.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "hellocr",
+        "price": "117.00 BDT",
+        "available_usdt": "50000.00",
+        "min_amount": "500 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "93.40%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "limon",
+        "price": "117.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "66.70%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Cripto-Trader24h",
+        "price": "117.00 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "438 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Trasted_Samyul",
+        "price": "117.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "1500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Mehedi_123",
+        "price": "116.90 BDT",
+        "available_usdt": "125.00",
+        "min_amount": "500 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "smrity_trader",
+        "price": "116.50 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "ToUch_BaSe",
+        "price": "116.50 BDT",
+        "available_usdt": "5000.00",
+        "min_amount": "500000 BDT",
+        "max_amount": "500001 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-0ba6b6ez",
+        "price": "116.42 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "3500 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-45fc82r5",
+        "price": "116.40 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-3f422bei",
+        "price": "116.30 BDT",
+        "available_usdt": "42.99",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "InstantLoad",
+        "price": "116.26 BDT",
+        "available_usdt": "4995.59",
+        "min_amount": "438 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "QuiCk-Transaction-07",
+        "price": "116.26 BDT",
+        "available_usdt": "5500.00",
+        "min_amount": "599999 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Omli",
+        "price": "116.20 BDT",
+        "available_usdt": "10000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "94.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "FASTEST_SERVICE_247",
+        "price": "116.10 BDT",
+        "available_usdt": "931.65",
+        "min_amount": "5000 BDT",
+        "max_amount": "550000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "Idealbuysale",
+        "price": "116.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "11600 BDT",
+        "max_amount": "116100 BDT",
+        "completion_rate": "61.20%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Mahede_Enterprise",
+        "price": "116.00 BDT",
+        "available_usdt": "4990.88",
+        "min_amount": "1000 BDT",
+        "max_amount": "570000 BDT",
+        "completion_rate": "84.70%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "P2P-e16d91le",
+        "price": "116.00 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SpaceXBTC",
+        "price": "116.00 BDT",
+        "available_usdt": "40.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "CRkowsar",
+        "price": "115.80 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "500 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "87.50%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MDZAHEDULISLAMSANDWI",
+        "price": "115.62 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SilentCryptoBd",
+        "price": "115.55 BDT",
+        "available_usdt": "10000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-2eced3z2",
+        "price": "115.51 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "USDT-To-Exchange-BDT",
+        "price": "115.51 BDT",
+        "available_usdt": "7733.17",
+        "min_amount": "500 BDT",
+        "max_amount": "100000 BDT",
+        "completion_rate": "99.90%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Rasel-_-Trader",
+        "price": "115.50 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Only-Buy_Sell-95",
+        "price": "115.31 BDT",
+        "available_usdt": "4766.92",
+        "min_amount": "5000 BDT",
+        "max_amount": "100000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "hhrsanju",
+        "price": "115.13 BDT",
+        "available_usdt": "53.00",
+        "min_amount": "500 BDT",
+        "max_amount": "6102 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Tanfihassan",
+        "price": "115.10 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "3100 BDT",
+        "completion_rate": "83.40%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Sumon_Sadin",
+        "price": "115.10 BDT",
+        "available_usdt": "34.75",
+        "min_amount": "438 BDT",
+        "max_amount": "4000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "All-Time-usdt",
+        "price": "115.09 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "momin35",
+        "price": "115.04 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-755eb23c",
+        "price": "115.01 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "sonymunshi",
+        "price": "115.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-8efb95o0",
+        "price": "115.00 BDT",
+        "available_usdt": "94.06",
+        "min_amount": "500 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "85.50%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Maksudur-Rahman-24",
+        "price": "115.00 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "500 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "",
+        "price": "115.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Shaon-tarder",
+        "price": "115.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "RiponKhanBD",
+        "price": "115.00 BDT",
+        "available_usdt": "413.00",
+        "min_amount": "438 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "S-S-ENTERPRISE",
+        "price": "115.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Rony",
+        "price": "115.00 BDT",
+        "available_usdt": "93.19",
+        "min_amount": "500 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Its-your-partner",
+        "price": "115.00 BDT",
+        "available_usdt": "300.00",
+        "min_amount": "438 BDT",
+        "max_amount": "37000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-728349xm",
+        "price": "115.00 BDT",
+        "available_usdt": "400.00",
+        "min_amount": "438 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MR_Mobashir_Mim",
+        "price": "115.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "66.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Mehedi_Hasan_Santo",
+        "price": "115.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MAINUL2482",
+        "price": "115.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "12000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SMARTxTRADER",
+        "price": "115.00 BDT",
+        "available_usdt": "150.00",
+        "min_amount": "438 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "mdahon",
+        "price": "115.00 BDT",
+        "available_usdt": "150.00",
+        "min_amount": "500 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "Esha_Sardar",
+        "price": "115.00 BDT",
+        "available_usdt": "235.99",
+        "min_amount": "438 BDT",
+        "max_amount": "7000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "-Trusted_seller-",
+        "price": "115.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "450 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "91.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SuperExchange69",
+        "price": "115.00 BDT",
+        "available_usdt": "10.61",
+        "min_amount": "438 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "75.80%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "MDamin24",
+        "price": "115.00 BDT",
+        "available_usdt": "150.00",
+        "min_amount": "500 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "94.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "nafewislam",
+        "price": "115.00 BDT",
+        "available_usdt": "11.00",
+        "min_amount": "438 BDT",
+        "max_amount": "700 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "like2010",
+        "price": "114.40 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "dorjoy__gaming",
+        "price": "114.07 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Salma9790",
+        "price": "114.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "11500 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SHAHARIYARRAANKING",
+        "price": "114.00 BDT",
+        "available_usdt": "438.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "ARIANUJJAL",
+        "price": "113.50 BDT",
+        "available_usdt": "800.00",
+        "min_amount": "438 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SAFE_FAST_PRO",
+        "price": "112.54 BDT",
+        "available_usdt": "50000.00",
+        "min_amount": "13000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "75.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "BINANCEKing712BD",
+        "price": "112.50 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-472966fc",
+        "price": "112.45 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "80.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "FASTEST_SERVICE_247",
+        "price": "112.45 BDT",
+        "available_usdt": "346.06",
+        "min_amount": "1000 BDT",
+        "max_amount": "500000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "upay"
+    },
+    {
+        "seller": "SAFE-FAST-TRUST_",
+        "price": "112.42 BDT",
+        "available_usdt": "50000.00",
+        "min_amount": "7500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "97.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "USDT_To-Exchange-BDT",
+        "price": "112.10 BDT",
+        "available_usdt": "9733.40",
+        "min_amount": "439 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-1378e7f0",
+        "price": "112.02 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "usdseler12",
+        "price": "112.00 BDT",
+        "available_usdt": "175.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Sajib_hawlader",
+        "price": "112.00 BDT",
+        "available_usdt": "907.38",
+        "min_amount": "500 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "__shek_sadi_vai__",
+        "price": "112.00 BDT",
+        "available_usdt": "50000.00",
+        "min_amount": "1500 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-8b01b49m",
+        "price": "112.00 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "17000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Crypto_bKash",
+        "price": "111.80 BDT",
+        "available_usdt": "170.00",
+        "min_amount": "500 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "AABDULLAALLMAMUN",
+        "price": "111.73 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "105691 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "safe-fast-trust",
+        "price": "111.19 BDT",
+        "available_usdt": "50000.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "87.50%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "AMAlEK",
+        "price": "111.00 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "3000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "abu_rayhan4626",
+        "price": "110.99 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "USDT-To-Exchange-BDT",
+        "price": "110.80 BDT",
+        "available_usdt": "996497.76",
+        "min_amount": "440 BDT",
+        "max_amount": "100000 BDT",
+        "completion_rate": "99.90%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "cripto009",
+        "price": "110.60 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-f988beta",
+        "price": "110.58 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "SAIKAT_99",
+        "price": "110.55 BDT",
+        "available_usdt": "150.00",
+        "min_amount": "438 BDT",
+        "max_amount": "60000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-bf7e0bwd",
+        "price": "110.55 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Jitu_sarker999",
+        "price": "110.46 BDT",
+        "available_usdt": "120.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "P2P-73d066ak",
+        "price": "110.40 BDT",
+        "available_usdt": "9970.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-60cecfcb",
+        "price": "110.26 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Fahad_USDT",
+        "price": "110.26 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "2000 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-2fe9derp",
+        "price": "110.25 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "SuyaebTader",
+        "price": "110.20 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "78.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Dhaka_Exchange_Trad",
+        "price": "110.20 BDT",
+        "available_usdt": "10000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "24500 BDT",
+        "completion_rate": "92.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BDEXCHANGE9",
+        "price": "110.19 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "4000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-1322c6sb",
+        "price": "110.16 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-dfa216ag",
+        "price": "110.10 BDT",
+        "available_usdt": "1300.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-ba2afeit",
+        "price": "110.10 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Buy-Sell_USDT-2-BDT",
+        "price": "110.02 BDT",
+        "available_usdt": "9966.46",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-e49623xo",
+        "price": "110.01 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-b933c3w4",
+        "price": "110.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "RICH-MAN-BD",
+        "price": "110.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "SaroarJahn",
+        "price": "110.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Habib",
+        "price": "110.00 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-53f40ene",
+        "price": "110.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "FeeLess",
+        "price": "110.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1500 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-bd95e3li",
+        "price": "110.00 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "74.10%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "mdasikhosen",
+        "price": "110.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Arafat_Sarkar_P2P",
+        "price": "110.00 BDT",
+        "available_usdt": "95.83",
+        "min_amount": "438 BDT",
+        "max_amount": "3000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "TRUSTED_WALLET_328",
+        "price": "110.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-ad5a212q",
+        "price": "110.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "440 BDT",
+        "max_amount": "1100 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "trust-business-24",
+        "price": "110.00 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "doithurry",
+        "price": "110.00 BDT",
+        "available_usdt": "20.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1300 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Afran_Munna",
+        "price": "110.00 BDT",
+        "available_usdt": "4.02",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "trusted-bd-kgf",
+        "price": "110.00 BDT",
+        "available_usdt": "800.00",
+        "min_amount": "438 BDT",
+        "max_amount": "60000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-fcf2d7t8",
+        "price": "110.00 BDT",
+        "available_usdt": "25.00",
+        "min_amount": "500 BDT",
+        "max_amount": "3000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "ONETOR_TRADER_6T9",
+        "price": "110.00 BDT",
+        "available_usdt": "50000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "FastExchangeKst",
+        "price": "109.97 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "2000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-06e9a2c9",
+        "price": "109.74 BDT",
+        "available_usdt": "102.00",
+        "min_amount": "500 BDT",
+        "max_amount": "12000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-f8c745xx",
+        "price": "109.71 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "shazid1234",
+        "price": "109.18 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MdHadayatulislam",
+        "price": "109.00 BDT",
+        "available_usdt": "3000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "300000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "P2P-0311d7nc",
+        "price": "109.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "440 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-8e1021kh",
+        "price": "109.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "100000 BDT",
+        "completion_rate": "87.50%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "MDRAZIBmia",
+        "price": "108.91 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Emon4767",
+        "price": "108.61 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "438 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "iqbalshahria",
+        "price": "108.57 BDT",
+        "available_usdt": "250.00",
+        "min_amount": "438 BDT",
+        "max_amount": "27142 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "USDT_SELLER69",
+        "price": "108.55 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BLACK------111",
+        "price": "108.30 BDT",
+        "available_usdt": "137.53",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "masudhasanrobi",
+        "price": "108.16 BDT",
+        "available_usdt": "231.14",
+        "min_amount": "500 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "Tanzim_Traders",
+        "price": "108.00 BDT",
+        "available_usdt": "378.20",
+        "min_amount": "438 BDT",
+        "max_amount": "20400 BDT",
+        "completion_rate": "80.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "AllTimeOpen",
+        "price": "107.20 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "1500 BDT",
+        "max_amount": "2500 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Black-Is-CooL",
+        "price": "107.17 BDT",
+        "available_usdt": "550.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Shadow",
+        "price": "107.00 BDT",
+        "available_usdt": "420.00",
+        "min_amount": "800 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MohammedAbir",
+        "price": "106.50 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "10000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "_FaiR_TraNsAcTion_",
+        "price": "106.36 BDT",
+        "available_usdt": "316.36",
+        "min_amount": "4016 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Ifthkheruddin",
+        "price": "106.34 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "91.70%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "SRMteknoloji",
+        "price": "106.31 BDT",
+        "available_usdt": "2000000.00",
+        "min_amount": "24000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "98.20%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "Bikase",
+        "price": "106.20 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "850 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "HRIDOI",
+        "price": "106.20 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Razib",
+        "price": "106.15 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "My_acc",
+        "price": "106.15 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "20000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "PRO-EXCENGER-BD",
+        "price": "106.09 BDT",
+        "available_usdt": "106.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1300 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SAFTYPAYMENT",
+        "price": "106.08 BDT",
+        "available_usdt": "438.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "RimonBD1",
+        "price": "106.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "raselalruhny",
+        "price": "106.00 BDT",
+        "available_usdt": "120.00",
+        "min_amount": "438 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SAFE_SUPERFAST_TRUST",
+        "price": "105.70 BDT",
+        "available_usdt": "200000.00",
+        "min_amount": "12000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "97.10%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "trustedvai",
+        "price": "105.50 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "2000 BDT",
+        "max_amount": "50000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "ARIF",
+        "price": "105.33 BDT",
+        "available_usdt": "600.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "63198 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "VIP-TRUST",
+        "price": "105.20 BDT",
+        "available_usdt": "1000000.00",
+        "min_amount": "100000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "97.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "MIKONOK",
+        "price": "105.00 BDT",
+        "available_usdt": "2860.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "300300 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "USDT_To_Exchange-BDT",
+        "price": "105.00 BDT",
+        "available_usdt": "11715.76",
+        "min_amount": "438 BDT",
+        "max_amount": "30000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Airtime Mobile Top-Up"
+    },
+    {
+        "seller": "TDseller",
+        "price": "105.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-f69babzd",
+        "price": "105.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "450 BDT",
+        "max_amount": "10500 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Mr_Beast__TRADING",
+        "price": "105.00 BDT",
+        "available_usdt": "15400.00",
+        "min_amount": "438 BDT",
+        "max_amount": "200000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Rony",
+        "price": "105.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "450 BDT",
+        "max_amount": "1500 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Fair_And-LovelY",
+        "price": "104.94 BDT",
+        "available_usdt": "340.00",
+        "min_amount": "4000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "OfFiCiAl_SeRviCe-fst",
+        "price": "104.04 BDT",
+        "available_usdt": "159.72",
+        "min_amount": "4000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "The_TrUe_TrUCk",
+        "price": "103.43 BDT",
+        "available_usdt": "450.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "SRMteknoloji",
+        "price": "103.25 BDT",
+        "available_usdt": "2000000.00",
+        "min_amount": "24000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "98.20%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "Criptopoint186",
+        "price": "103.20 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "8000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "HoNeST_BuSinEsS",
+        "price": "103.13 BDT",
+        "available_usdt": "600.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Spy-Trader",
+        "price": "103.03 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "444 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "92.40%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BD_TOP-1",
+        "price": "103.00 BDT",
+        "available_usdt": "300.00",
+        "min_amount": "438 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "TetherZone",
+        "price": "103.00 BDT",
+        "available_usdt": "5298.36",
+        "min_amount": "450 BDT",
+        "max_amount": "500000 BDT",
+        "completion_rate": "99.20%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "VIP-TRUST",
+        "price": "102.76 BDT",
+        "available_usdt": "1000000.00",
+        "min_amount": "50000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "97.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "95Best_Exchanger_24",
+        "price": "102.44 BDT",
+        "available_usdt": "514607.50",
+        "min_amount": "438 BDT",
+        "max_amount": "6000000 BDT",
+        "completion_rate": "97.80%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "No_Npsb",
+        "price": "101.67 BDT",
+        "available_usdt": "8206.03",
+        "min_amount": "2000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "99.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "NAIEMHOSSEN",
+        "price": "101.50 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Crypto_Boss_R",
+        "price": "101.47 BDT",
+        "available_usdt": "5000.00",
+        "min_amount": "20000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Fast_trade_BD_",
+        "price": "101.01 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "660 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Alamin999",
+        "price": "101.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "trutedseller",
+        "price": "100.85 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "500 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SAFE_SUPERFAST_TRUST",
+        "price": "100.81 BDT",
+        "available_usdt": "1999527.71",
+        "min_amount": "12500 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "97.10%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "DadaBhaiCrypto",
+        "price": "100.63 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "MD_Sifat_Islam_1",
+        "price": "100.51 BDT",
+        "available_usdt": "462.24",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "95.90%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "RLT_",
+        "price": "100.50 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Srabon_Js",
+        "price": "100.20 BDT",
+        "available_usdt": "150.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "80.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "EXCHANGE_USD-T",
+        "price": "100.01 BDT",
+        "available_usdt": "23929.03",
+        "min_amount": "438 BDT",
+        "max_amount": "900000 BDT",
+        "completion_rate": "99.90%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Joman734",
+        "price": "100.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "USDlowBosS",
+        "price": "100.00 BDT",
+        "available_usdt": "900.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "CRYPTO_S4",
+        "price": "100.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "5000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "66.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Ms_HABIBULLAHTELECOM",
+        "price": "100.00 BDT",
+        "available_usdt": "1442.15",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "rakesh",
+        "price": "100.00 BDT",
+        "available_usdt": "4000.00",
+        "min_amount": "500 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-be81b8xf",
+        "price": "100.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-f75d74yz",
+        "price": "100.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "IZHAR_p2p",
+        "price": "100.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "OWALIULLAH-EX-BD",
+        "price": "100.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "91.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-c4bd625g",
+        "price": "100.00 BDT",
+        "available_usdt": "10000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2500 BDT",
+        "completion_rate": "95.90%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "MoON_KniGhT_",
+        "price": "100.00 BDT",
+        "available_usdt": "5000.00",
+        "min_amount": "440 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "Bd_Nasir-Past",
+        "price": "100.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "529 BDT",
+        "max_amount": "12000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "fastpay24hour",
+        "price": "100.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "88.90%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "UTSABLTD",
+        "price": "100.00 BDT",
+        "available_usdt": "50000.00",
+        "min_amount": "49000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-b113b7ng",
+        "price": "100.00 BDT",
+        "available_usdt": "945.75",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Nahid2",
+        "price": "100.00 BDT",
+        "available_usdt": "63.15",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BD_Hassan",
+        "price": "100.00 BDT",
+        "available_usdt": "199990.00",
+        "min_amount": "1000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "86.70%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "LABU_Crypto_BD",
+        "price": "100.00 BDT",
+        "available_usdt": "500.00",
+        "min_amount": "8000 BDT",
+        "max_amount": "90000 BDT",
+        "completion_rate": "50.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Truestperson",
+        "price": "99.64 BDT",
+        "available_usdt": "36.89",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "SRMteknoloji",
+        "price": "99.59 BDT",
+        "available_usdt": "2000000.00",
+        "min_amount": "25000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "98.20%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "VIP-TRUST",
+        "price": "99.09 BDT",
+        "available_usdt": "1000000.00",
+        "min_amount": "20000 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "97.70%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "TRADERALVERJ2ID",
+        "price": "99.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "1800 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Jarif1122",
+        "price": "99.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "FASTEST_SERVICE_247",
+        "price": "98.90 BDT",
+        "available_usdt": "1995942.86",
+        "min_amount": "438 BDT",
+        "max_amount": "200000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "USD-EXCHANER-TOP-SEL",
+        "price": "98.70 BDT",
+        "available_usdt": "49919.61",
+        "min_amount": "500 BDT",
+        "max_amount": "20000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-2a4fbefp",
+        "price": "98.02 BDT",
+        "available_usdt": "20000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-b22eeete",
+        "price": "98.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "500 BDT",
+        "max_amount": "4000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-6a0f94rq",
+        "price": "98.00 BDT",
+        "available_usdt": "4000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "XOXO-HOST",
+        "price": "98.00 BDT",
+        "available_usdt": "250.00",
+        "min_amount": "438 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "88.90%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "AbdurRahman",
+        "price": "98.00 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Foggy",
+        "price": "98.00 BDT",
+        "available_usdt": "30000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "FAST-USDT-MASTER",
+        "price": "97.87 BDT",
+        "available_usdt": "998368.79",
+        "min_amount": "15000 BDT",
+        "max_amount": "120000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "HabiburRahman1993",
+        "price": "97.75 BDT",
+        "available_usdt": "10000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "Rockyvai247",
+        "price": "97.75 BDT",
+        "available_usdt": "10000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "5000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Rocket"
+    },
+    {
+        "seller": "FAST-USDT-MASTER",
+        "price": "97.75 BDT",
+        "available_usdt": "1000000.00",
+        "min_amount": "10000 BDT",
+        "max_amount": "120000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-b5e871ry",
+        "price": "97.64 BDT",
+        "available_usdt": "50000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "RabiulHassan0",
+        "price": "97.50 BDT",
+        "available_usdt": "50.00",
+        "min_amount": "500 BDT",
+        "max_amount": "1500 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "BD_Hassan",
+        "price": "97.12 BDT",
+        "available_usdt": "199917.06",
+        "min_amount": "438 BDT",
+        "max_amount": "12000000 BDT",
+        "completion_rate": "86.70%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "Tamim",
+        "price": "97.05 BDT",
+        "available_usdt": "9986.57",
+        "min_amount": "438 BDT",
+        "max_amount": "6000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "binance1father",
+        "price": "96.33 BDT",
+        "available_usdt": "10000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "smr64",
+        "price": "96.00 BDT",
+        "available_usdt": "101.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "75.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "KSP_T3CH",
+        "price": "96.00 BDT",
+        "available_usdt": "1000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "15000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "PerryEscher",
+        "price": "95.73 BDT",
+        "available_usdt": "97.50",
+        "min_amount": "438 BDT",
+        "max_amount": "1000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-95e30e2c",
+        "price": "95.66 BDT",
+        "available_usdt": "10.00",
+        "min_amount": "438 BDT",
+        "max_amount": "440 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Robayet1",
+        "price": "91.56 BDT",
+        "available_usdt": "222.80",
+        "min_amount": "1200 BDT",
+        "max_amount": "120000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "Crypto  Queen",
+        "price": "91.50 BDT",
+        "available_usdt": "19857.62",
+        "min_amount": "1200 BDT",
+        "max_amount": "120000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-648ce1cb",
+        "price": "90.74 BDT",
+        "available_usdt": "10000.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-d195492q",
+        "price": "90.68 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "12500 BDT",
+        "completion_rate": "50.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "P2P-59e848wo",
+        "price": "90.00 BDT",
+        "available_usdt": "130.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "50.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "nasirhossain2003",
+        "price": "88.00 BDT",
+        "available_usdt": "200.00",
+        "min_amount": "438 BDT",
+        "max_amount": "25000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-11eb06oh",
+        "price": "87.87 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "P2P-d07684uw",
+        "price": "87.80 BDT",
+        "available_usdt": "100.00",
+        "min_amount": "438 BDT",
+        "max_amount": "2000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "fast-free-exchange",
+        "price": "87.74 BDT",
+        "available_usdt": "139.05",
+        "min_amount": "438 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "100.00%",
+        "trade_method": "bKash"
+    },
+    {
+        "seller": "imran",
+        "price": "86.51 BDT",
+        "available_usdt": "5000.00",
+        "min_amount": "1200 BDT",
+        "max_amount": "120000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "exchangeeeeeeee",
+        "price": "86.00 BDT",
+        "available_usdt": "20000.00",
+        "min_amount": "100000 BDT",
+        "max_amount": "600000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    },
+    {
+        "seller": "me",
+        "price": "85.00 BDT",
+        "available_usdt": "3000.00",
+        "min_amount": "200000 BDT",
+        "max_amount": "258000 BDT",
+        "completion_rate": "0.00%",
+        "trade_method": "Nagad"
+    }
+]

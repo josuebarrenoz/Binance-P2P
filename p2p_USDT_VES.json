@@ -1,0 +1,5330 @@
+[
+    {
+        "seller": "Keycambio",
+        "price": "129.000 VES",
+        "available_usdt": "3400.00",
+        "min_amount": "438600 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ay_0",
+        "price": "129.000 VES",
+        "available_usdt": "39524.19",
+        "min_amount": "1050000 VES",
+        "max_amount": "21000000 VES",
+        "completion_rate": "97.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Rch28",
+        "price": "128.960 VES",
+        "available_usdt": "30000.00",
+        "min_amount": "900000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Trade_Vzla",
+        "price": "128.950 VES",
+        "available_usdt": "32584.03",
+        "min_amount": "700000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.10%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Trader_Cripto1",
+        "price": "128.901 VES",
+        "available_usdt": "59022.25",
+        "min_amount": "500000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "gold2008",
+        "price": "128.901 VES",
+        "available_usdt": "8000.00",
+        "min_amount": "300000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "child0696",
+        "price": "128.900 VES",
+        "available_usdt": "11818.40",
+        "min_amount": "100000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "TAURUS85",
+        "price": "128.780 VES",
+        "available_usdt": "50000.00",
+        "min_amount": "800000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CJ17",
+        "price": "128.710 VES",
+        "available_usdt": "29462.01",
+        "min_amount": "200000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "MundoEs",
+        "price": "128.710 VES",
+        "available_usdt": "6104.01",
+        "min_amount": "130000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Eliezerjph",
+        "price": "128.700 VES",
+        "available_usdt": "8880.55",
+        "min_amount": "300000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "TOPOCHITO",
+        "price": "128.650 VES",
+        "available_usdt": "15385.70",
+        "min_amount": "100000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Pandora-D",
+        "price": "128.630 VES",
+        "available_usdt": "4520.00",
+        "min_amount": "70000 VES",
+        "max_amount": "250000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "TIFY-",
+        "price": "128.625 VES",
+        "available_usdt": "12895.42",
+        "min_amount": "50000 VES",
+        "max_amount": "1000000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "InfinityMoney21",
+        "price": "128.620 VES",
+        "available_usdt": "6393.25",
+        "min_amount": "80000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "DATABITCOIN2020",
+        "price": "128.610 VES",
+        "available_usdt": "10339.96",
+        "min_amount": "50000 VES",
+        "max_amount": "1000000 VES",
+        "completion_rate": "99.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "TAURUS85",
+        "price": "128.600 VES",
+        "available_usdt": "26000.15",
+        "min_amount": "100000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "OKokrapido",
+        "price": "128.565 VES",
+        "available_usdt": "9094.93",
+        "min_amount": "50000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "95.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "greca10",
+        "price": "128.488 VES",
+        "available_usdt": "4253.74",
+        "min_amount": "80000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "93.90%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "PAGOEXITO",
+        "price": "128.460 VES",
+        "available_usdt": "5674.68",
+        "min_amount": "60000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "99.20%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "Andul",
+        "price": "128.452 VES",
+        "available_usdt": "2253.16",
+        "min_amount": "60000 VES",
+        "max_amount": "140000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CambioExpressUSDT1",
+        "price": "128.310 VES",
+        "available_usdt": "6000.05",
+        "min_amount": "500000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Mundo Cripto ",
+        "price": "128.257 VES",
+        "available_usdt": "1643.86",
+        "min_amount": "30000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Burdyn",
+        "price": "128.220 VES",
+        "available_usdt": "3610.47",
+        "min_amount": "50000 VES",
+        "max_amount": "675000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "cazing2230",
+        "price": "128.201 VES",
+        "available_usdt": "5351.03",
+        "min_amount": "40000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "DNG168CAMBIO",
+        "price": "128.200 VES",
+        "available_usdt": "4218.49",
+        "min_amount": "200000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "93.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "AvExchange",
+        "price": "128.200 VES",
+        "available_usdt": "781.66",
+        "min_amount": "40000 VES",
+        "max_amount": "296874 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "may2524",
+        "price": "128.160 VES",
+        "available_usdt": "863.98",
+        "min_amount": "15000 VES",
+        "max_amount": "110728 VES",
+        "completion_rate": "99.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "AllDayTrade",
+        "price": "128.151 VES",
+        "available_usdt": "3331.94",
+        "min_amount": "30000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "98.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "TuPortafolio-Cripto",
+        "price": "128.150 VES",
+        "available_usdt": "236.36",
+        "min_amount": "30000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cambiosdip",
+        "price": "128.150 VES",
+        "available_usdt": "4683.96",
+        "min_amount": "30000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ebgp02",
+        "price": "128.150 VES",
+        "available_usdt": "495.52",
+        "min_amount": "2000 VES",
+        "max_amount": "84800 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "table20",
+        "price": "128.060 VES",
+        "available_usdt": "9080.33",
+        "min_amount": "30000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CriptoIntercambios2",
+        "price": "128.055 VES",
+        "available_usdt": "1400.73",
+        "min_amount": "1600 VES",
+        "max_amount": "250000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "yajureem",
+        "price": "128.011 VES",
+        "available_usdt": "233.39",
+        "min_amount": "2000 VES",
+        "max_amount": "20000 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Jotas2",
+        "price": "128.005 VES",
+        "available_usdt": "12440.66",
+        "min_amount": "20000 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "TIFY-",
+        "price": "128.001 VES",
+        "available_usdt": "18602.29",
+        "min_amount": "25000 VES",
+        "max_amount": "1000000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "JLxanges",
+        "price": "128.000 VES",
+        "available_usdt": "1883.92",
+        "min_amount": "80000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Lenwe",
+        "price": "128.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "100000 VES",
+        "max_amount": "400000 VES",
+        "completion_rate": "98.20%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CambiosChicho",
+        "price": "128.000 VES",
+        "available_usdt": "2216.49",
+        "min_amount": "5000 VES",
+        "max_amount": "500000 VES",
+        "completion_rate": "99.10%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cristh957",
+        "price": "128.000 VES",
+        "available_usdt": "312.53",
+        "min_amount": "2000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "96.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Kyoyo",
+        "price": "127.920 VES",
+        "available_usdt": "3470.10",
+        "min_amount": "40000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cambios_Ashe",
+        "price": "127.911 VES",
+        "available_usdt": "1876.04",
+        "min_amount": "20000 VES",
+        "max_amount": "80000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Ruanfason",
+        "price": "127.910 VES",
+        "available_usdt": "1004.91",
+        "min_amount": "30000 VES",
+        "max_amount": "387152 VES",
+        "completion_rate": "97.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "VIMA",
+        "price": "127.820 VES",
+        "available_usdt": "19105.72",
+        "min_amount": "100000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "SrTocino",
+        "price": "127.810 VES",
+        "available_usdt": "1085.00",
+        "min_amount": "5000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Nidia01",
+        "price": "127.800 VES",
+        "available_usdt": "49170.10",
+        "min_amount": "40000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.50%",
+        "trade_method": "BNC Banco Nacional de Cr\u00e9dito"
+    },
+    {
+        "seller": "DgoFast",
+        "price": "127.800 VES",
+        "available_usdt": "133.06",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "99.10%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "wladi20",
+        "price": "127.761 VES",
+        "available_usdt": "2311.14",
+        "min_amount": "5000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "97.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "cambio25",
+        "price": "127.700 VES",
+        "available_usdt": "72.82",
+        "min_amount": "320 VES",
+        "max_amount": "17984 VES",
+        "completion_rate": "99.20%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Rous_Only",
+        "price": "127.700 VES",
+        "available_usdt": "504.00",
+        "min_amount": "5000 VES",
+        "max_amount": "63500 VES",
+        "completion_rate": "88.10%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "eljontatam",
+        "price": "127.700 VES",
+        "available_usdt": "638.00",
+        "min_amount": "10000 VES",
+        "max_amount": "80750 VES",
+        "completion_rate": "96.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "RapidGummy",
+        "price": "127.652 VES",
+        "available_usdt": "387.18",
+        "min_amount": "700 VES",
+        "max_amount": "70000 VES",
+        "completion_rate": "98.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "SFCambios",
+        "price": "127.650 VES",
+        "available_usdt": "80.16",
+        "min_amount": "320 VES",
+        "max_amount": "8000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "exclusivemgta",
+        "price": "127.602 VES",
+        "available_usdt": "3712.40",
+        "min_amount": "8000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Raig_Raig",
+        "price": "127.600 VES",
+        "available_usdt": "1673.51",
+        "min_amount": "100000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Seveeen",
+        "price": "127.600 VES",
+        "available_usdt": "152.83",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "99.20%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "moises",
+        "price": "127.557 VES",
+        "available_usdt": "290.00",
+        "min_amount": "4000 VES",
+        "max_amount": "36000 VES",
+        "completion_rate": "99.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-e14cdddk",
+        "price": "127.500 VES",
+        "available_usdt": "260.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "93.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Exoticswaps",
+        "price": "127.450 VES",
+        "available_usdt": "1876.50",
+        "min_amount": "10000 VES",
+        "max_amount": "267319 VES",
+        "completion_rate": "98.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Star_Trading",
+        "price": "127.400 VES",
+        "available_usdt": "5352.86",
+        "min_amount": "60000 VES",
+        "max_amount": "565000 VES",
+        "completion_rate": "99.20%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Best_camb",
+        "price": "127.361 VES",
+        "available_usdt": "954.39",
+        "min_amount": "20000 VES",
+        "max_amount": "400000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Trader_Valera",
+        "price": "127.320 VES",
+        "available_usdt": "6936.37",
+        "min_amount": "40000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CarlaurisDIAS",
+        "price": "127.305 VES",
+        "available_usdt": "100.00",
+        "min_amount": "500 VES",
+        "max_amount": "3200 VES",
+        "completion_rate": "98.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Rubicomtrader",
+        "price": "127.300 VES",
+        "available_usdt": "253.19",
+        "min_amount": "1500 VES",
+        "max_amount": "36000 VES",
+        "completion_rate": "89.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CriptoWizz",
+        "price": "127.260 VES",
+        "available_usdt": "90.39",
+        "min_amount": "320 VES",
+        "max_amount": "51300 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "InvMahadeo-709",
+        "price": "127.255 VES",
+        "available_usdt": "110.70",
+        "min_amount": "320 VES",
+        "max_amount": "14076 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ZARIKIAN",
+        "price": "127.253 VES",
+        "available_usdt": "124.95",
+        "min_amount": "3000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "hoglatm",
+        "price": "127.250 VES",
+        "available_usdt": "930.00",
+        "min_amount": "5000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "97.20%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Al3ss0",
+        "price": "127.250 VES",
+        "available_usdt": "266.29",
+        "min_amount": "320 VES",
+        "max_amount": "90000 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "25Angelica",
+        "price": "127.220 VES",
+        "available_usdt": "640.05",
+        "min_amount": "5000 VES",
+        "max_amount": "50000 VES",
+        "completion_rate": "98.20%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "crypto-fier",
+        "price": "127.200 VES",
+        "available_usdt": "324.58",
+        "min_amount": "20000 VES",
+        "max_amount": "111211 VES",
+        "completion_rate": "99.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Nhector941",
+        "price": "127.200 VES",
+        "available_usdt": "3000.00",
+        "min_amount": "10000 VES",
+        "max_amount": "381600 VES",
+        "completion_rate": "98.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Crist778",
+        "price": "127.200 VES",
+        "available_usdt": "92.14",
+        "min_amount": "1000 VES",
+        "max_amount": "2000 VES",
+        "completion_rate": "88.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "nene",
+        "price": "127.110 VES",
+        "available_usdt": "678.04",
+        "min_amount": "5000 VES",
+        "max_amount": "170000 VES",
+        "completion_rate": "97.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "RIVERMONEY",
+        "price": "127.050 VES",
+        "available_usdt": "13422.66",
+        "min_amount": "25000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "96.10%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "criptollano2",
+        "price": "127.031 VES",
+        "available_usdt": "200.00",
+        "min_amount": "10000 VES",
+        "max_amount": "38000 VES",
+        "completion_rate": "94.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Menelao1",
+        "price": "127.002 VES",
+        "available_usdt": "66.27",
+        "min_amount": "1000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "96.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ANGELGABRIELFH",
+        "price": "127.001 VES",
+        "available_usdt": "165.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "97.50%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "Metropoliss",
+        "price": "127.000 VES",
+        "available_usdt": "6535.00",
+        "min_amount": "50000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Metropoliss",
+        "price": "127.000 VES",
+        "available_usdt": "6535.00",
+        "min_amount": "50000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Syriam29",
+        "price": "127.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "5600 VES",
+        "completion_rate": "97.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "EnriqueRp2p",
+        "price": "127.000 VES",
+        "available_usdt": "3000.00",
+        "min_amount": "127000 VES",
+        "max_amount": "381000 VES",
+        "completion_rate": "91.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CambiarapidoRham5691",
+        "price": "127.000 VES",
+        "available_usdt": "6000.00",
+        "min_amount": "5000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "99.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ShopxD",
+        "price": "127.000 VES",
+        "available_usdt": "800.56",
+        "min_amount": "5000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CambiosSilva",
+        "price": "126.920 VES",
+        "available_usdt": "280.78",
+        "min_amount": "10000 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CambioLG1",
+        "price": "126.900 VES",
+        "available_usdt": "312.53",
+        "min_amount": "320 VES",
+        "max_amount": "55450 VES",
+        "completion_rate": "97.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Rey14Remake",
+        "price": "126.900 VES",
+        "available_usdt": "362.25",
+        "min_amount": "3000 VES",
+        "max_amount": "85000 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "OzzieMen848",
+        "price": "126.790 VES",
+        "available_usdt": "3017.42",
+        "min_amount": "10000 VES",
+        "max_amount": "444000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "DAKLANID",
+        "price": "126.765 VES",
+        "available_usdt": "7529.63",
+        "min_amount": "10000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "95.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Kyoyo",
+        "price": "126.720 VES",
+        "available_usdt": "922.46",
+        "min_amount": "12000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Pagos_Fast_",
+        "price": "126.715 VES",
+        "available_usdt": "2020.17",
+        "min_amount": "20000 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Regoncars",
+        "price": "126.701 VES",
+        "available_usdt": "84.46",
+        "min_amount": "8000 VES",
+        "max_amount": "200000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "SCGR--",
+        "price": "126.603 VES",
+        "available_usdt": "1018.87",
+        "min_amount": "15000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "MMIJ_Crip2023",
+        "price": "126.600 VES",
+        "available_usdt": "558.42",
+        "min_amount": "20000 VES",
+        "max_amount": "120000 VES",
+        "completion_rate": "98.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "leosolox",
+        "price": "126.600 VES",
+        "available_usdt": "3507.00",
+        "min_amount": "9000 VES",
+        "max_amount": "444112 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "genesisandreaf",
+        "price": "126.570 VES",
+        "available_usdt": "863.65",
+        "min_amount": "8000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "99.20%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "DETROX1",
+        "price": "126.560 VES",
+        "available_usdt": "971.60",
+        "min_amount": "6000 VES",
+        "max_amount": "277891 VES",
+        "completion_rate": "99.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Clovers-",
+        "price": "126.510 VES",
+        "available_usdt": "71.02",
+        "min_amount": "2000 VES",
+        "max_amount": "200000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cripto_store_V2",
+        "price": "126.501 VES",
+        "available_usdt": "72.25",
+        "min_amount": "3000 VES",
+        "max_amount": "120000 VES",
+        "completion_rate": "80.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "carluchinl",
+        "price": "126.430 VES",
+        "available_usdt": "4934.30",
+        "min_amount": "6000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "JokerSwap",
+        "price": "126.420 VES",
+        "available_usdt": "5905.88",
+        "min_amount": "5000 VES",
+        "max_amount": "889247 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "BakiGoodImports",
+        "price": "126.420 VES",
+        "available_usdt": "100.00",
+        "min_amount": "2500 VES",
+        "max_amount": "6900 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Seguro",
+        "price": "126.410 VES",
+        "available_usdt": "3591.25",
+        "min_amount": "20000 VES",
+        "max_amount": "650000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "SuperZavaExhange",
+        "price": "126.310 VES",
+        "available_usdt": "100.31",
+        "min_amount": "320 VES",
+        "max_amount": "12671 VES",
+        "completion_rate": "94.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "manonjunior",
+        "price": "126.260 VES",
+        "available_usdt": "10.62",
+        "min_amount": "1000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "94.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CambiosLCAVen",
+        "price": "126.200 VES",
+        "available_usdt": "160.00",
+        "min_amount": "5000 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "98.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "NGM",
+        "price": "126.200 VES",
+        "available_usdt": "1510.00",
+        "min_amount": "30000 VES",
+        "max_amount": "650000 VES",
+        "completion_rate": "95.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "cambiosZay",
+        "price": "126.150 VES",
+        "available_usdt": "100.00",
+        "min_amount": "500 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "88.00%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "Mucutuy",
+        "price": "126.112 VES",
+        "available_usdt": "3028.08",
+        "min_amount": "5000 VES",
+        "max_amount": "522221 VES",
+        "completion_rate": "99.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "RafaelTucambioRapido",
+        "price": "126.110 VES",
+        "available_usdt": "212.94",
+        "min_amount": "320 VES",
+        "max_amount": "200000 VES",
+        "completion_rate": "97.50%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "angels123",
+        "price": "126.102 VES",
+        "available_usdt": "83.22",
+        "min_amount": "4000 VES",
+        "max_amount": "88480 VES",
+        "completion_rate": "97.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "RapidEnvios",
+        "price": "126.101 VES",
+        "available_usdt": "782.73",
+        "min_amount": "4000 VES",
+        "max_amount": "300000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Exchangehope",
+        "price": "126.100 VES",
+        "available_usdt": "538.46",
+        "min_amount": "5000 VES",
+        "max_amount": "67900 VES",
+        "completion_rate": "98.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Criptoseed",
+        "price": "126.100 VES",
+        "available_usdt": "59004.97",
+        "min_amount": "4000 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "97.10%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "FastsEnvios",
+        "price": "126.025 VES",
+        "available_usdt": "555.91",
+        "min_amount": "3000 VES",
+        "max_amount": "300000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Catalina",
+        "price": "126.021 VES",
+        "available_usdt": "919.98",
+        "min_amount": "3000 VES",
+        "max_amount": "200000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "rgomezd1",
+        "price": "126.020 VES",
+        "available_usdt": "2600.33",
+        "min_amount": "1900 VES",
+        "max_amount": "500000 VES",
+        "completion_rate": "98.20%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Jhonnycash",
+        "price": "126.000 VES",
+        "available_usdt": "599.96",
+        "min_amount": "5000 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "moviri",
+        "price": "126.000 VES",
+        "available_usdt": "16.82",
+        "min_amount": "320 VES",
+        "max_amount": "35000 VES",
+        "completion_rate": "99.20%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "Queencambios",
+        "price": "125.950 VES",
+        "available_usdt": "840.12",
+        "min_amount": "10000 VES",
+        "max_amount": "187575 VES",
+        "completion_rate": "97.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ALTRIUM",
+        "price": "125.910 VES",
+        "available_usdt": "547.44",
+        "min_amount": "2001 VES",
+        "max_amount": "60000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Jessica1003",
+        "price": "125.910 VES",
+        "available_usdt": "242.78",
+        "min_amount": "5500 VES",
+        "max_amount": "50000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CryptoIngAlex",
+        "price": "125.910 VES",
+        "available_usdt": "645.00",
+        "min_amount": "1501 VES",
+        "max_amount": "29935 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Crypton",
+        "price": "125.900 VES",
+        "available_usdt": "1571.81",
+        "min_amount": "8000 VES",
+        "max_amount": "980000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "JJcambiosUSD",
+        "price": "125.900 VES",
+        "available_usdt": "358.75",
+        "min_amount": "2300 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "cambiosaular",
+        "price": "125.900 VES",
+        "available_usdt": "1478.20",
+        "min_amount": "2000 VES",
+        "max_amount": "194104 VES",
+        "completion_rate": "98.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CryptosVzla",
+        "price": "125.710 VES",
+        "available_usdt": "926.42",
+        "min_amount": "3000 VES",
+        "max_amount": "900000 VES",
+        "completion_rate": "98.50%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "\u6c34\u7334",
+        "price": "125.700 VES",
+        "available_usdt": "38370.67",
+        "min_amount": "7500 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.40%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "CambiosDEV",
+        "price": "125.684 VES",
+        "available_usdt": "1549.49",
+        "min_amount": "6000 VES",
+        "max_amount": "400000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "troughh",
+        "price": "125.679 VES",
+        "available_usdt": "427.78",
+        "min_amount": "5000 VES",
+        "max_amount": "126000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "CambiosJR2",
+        "price": "125.621 VES",
+        "available_usdt": "1898.48",
+        "min_amount": "4000 VES",
+        "max_amount": "256000 VES",
+        "completion_rate": "98.40%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "MrFrogs",
+        "price": "125.615 VES",
+        "available_usdt": "247.39",
+        "min_amount": "5000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "97.90%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "RapidEnvios",
+        "price": "125.606 VES",
+        "available_usdt": "1577.53",
+        "min_amount": "1500 VES",
+        "max_amount": "300000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cambioslaguaira",
+        "price": "125.600 VES",
+        "available_usdt": "138.00",
+        "min_amount": "10000 VES",
+        "max_amount": "30000 VES",
+        "completion_rate": "97.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ContrerasE",
+        "price": "125.600 VES",
+        "available_usdt": "2471.39",
+        "min_amount": "2000 VES",
+        "max_amount": "999999 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "bmajzoub",
+        "price": "125.510 VES",
+        "available_usdt": "2000.00",
+        "min_amount": "10000 VES",
+        "max_amount": "243020 VES",
+        "completion_rate": "96.30%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Nirvanacafe",
+        "price": "125.300 VES",
+        "available_usdt": "1084.72",
+        "min_amount": "2000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Kndysign",
+        "price": "125.300 VES",
+        "available_usdt": "892.25",
+        "min_amount": "320 VES",
+        "max_amount": "111800 VES",
+        "completion_rate": "98.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "alevil1207",
+        "price": "125.261 VES",
+        "available_usdt": "304.72",
+        "min_amount": "320 VES",
+        "max_amount": "50611 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-1264443c",
+        "price": "125.260 VES",
+        "available_usdt": "1983.49",
+        "min_amount": "320 VES",
+        "max_amount": "268750 VES",
+        "completion_rate": "96.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "greysLI",
+        "price": "125.193 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "3000 VES",
+        "max_amount": "12500 VES",
+        "completion_rate": "80.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CriptoMitgar",
+        "price": "125.100 VES",
+        "available_usdt": "471.00",
+        "min_amount": "10000 VES",
+        "max_amount": "11200 VES",
+        "completion_rate": "95.10%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Yahweeh",
+        "price": "125.100 VES",
+        "available_usdt": "54.70",
+        "min_amount": "350 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "98.00%",
+        "trade_method": "BNC Banco Nacional de Cr\u00e9dito"
+    },
+    {
+        "seller": "javi1203",
+        "price": "125.050 VES",
+        "available_usdt": "614.34",
+        "min_amount": "1200 VES",
+        "max_amount": "300000 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Wlayurimar",
+        "price": "125.008 VES",
+        "available_usdt": "256.08",
+        "min_amount": "500 VES",
+        "max_amount": "200000 VES",
+        "completion_rate": "97.90%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "Ch69",
+        "price": "125.000 VES",
+        "available_usdt": "2360.00",
+        "min_amount": "7000 VES",
+        "max_amount": "295000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-a196415q",
+        "price": "125.000 VES",
+        "available_usdt": "400.00",
+        "min_amount": "5000 VES",
+        "max_amount": "20000 VES",
+        "completion_rate": "91.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CAMBIOSJRPRO",
+        "price": "125.000 VES",
+        "available_usdt": "15000.00",
+        "min_amount": "60000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "RonaldoVp",
+        "price": "125.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "1800 VES",
+        "completion_rate": "96.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "MARACAIBOBTC",
+        "price": "125.000 VES",
+        "available_usdt": "2507.92",
+        "min_amount": "90000 VES",
+        "max_amount": "800000 VES",
+        "completion_rate": "98.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "SrNelo_USDT",
+        "price": "125.000 VES",
+        "available_usdt": "20000.00",
+        "min_amount": "70000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Marketplace66",
+        "price": "125.000 VES",
+        "available_usdt": "1516.00",
+        "min_amount": "3000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Moneytransfer",
+        "price": "125.000 VES",
+        "available_usdt": "1459.90",
+        "min_amount": "1000 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "99.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CambioMenor",
+        "price": "125.000 VES",
+        "available_usdt": "155.00",
+        "min_amount": "320 VES",
+        "max_amount": "18676 VES",
+        "completion_rate": "97.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Carlos",
+        "price": "125.000 VES",
+        "available_usdt": "2866.94",
+        "min_amount": "5000 VES",
+        "max_amount": "372000 VES",
+        "completion_rate": "92.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "leimoreno15",
+        "price": "125.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "10800 VES",
+        "max_amount": "10850 VES",
+        "completion_rate": "82.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "RushPay",
+        "price": "125.000 VES",
+        "available_usdt": "671.10",
+        "min_amount": "1000 VES",
+        "max_amount": "300000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Kyepez11",
+        "price": "124.839 VES",
+        "available_usdt": "65755.95",
+        "min_amount": "10000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.20%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "BellaCripto",
+        "price": "124.800 VES",
+        "available_usdt": "3342.85",
+        "min_amount": "7000 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "96.30%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "Pagosrapido",
+        "price": "124.750 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "12475 VES",
+        "completion_rate": "98.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "\u6c34\u7334",
+        "price": "124.700 VES",
+        "available_usdt": "15123.63",
+        "min_amount": "3100 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Be-Changes",
+        "price": "124.505 VES",
+        "available_usdt": "195.98",
+        "min_amount": "1000 VES",
+        "max_amount": "65000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "loucita",
+        "price": "124.505 VES",
+        "available_usdt": "445.83",
+        "min_amount": "3000 VES",
+        "max_amount": "126000 VES",
+        "completion_rate": "98.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CambiosToday12",
+        "price": "124.500 VES",
+        "available_usdt": "200.00",
+        "min_amount": "8000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "87.50%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Kikomau",
+        "price": "124.500 VES",
+        "available_usdt": "1400.00",
+        "min_amount": "10000 VES",
+        "max_amount": "174300 VES",
+        "completion_rate": "85.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "FastEG",
+        "price": "124.420 VES",
+        "available_usdt": "985.00",
+        "min_amount": "3000 VES",
+        "max_amount": "122500 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Blokchaiger",
+        "price": "124.405 VES",
+        "available_usdt": "27.05",
+        "min_amount": "2000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "Digaby",
+        "price": "124.400 VES",
+        "available_usdt": "75.20",
+        "min_amount": "500 VES",
+        "max_amount": "11977 VES",
+        "completion_rate": "97.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ComproTuDolita",
+        "price": "124.330 VES",
+        "available_usdt": "98.09",
+        "min_amount": "320 VES",
+        "max_amount": "78000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "LuzChanges",
+        "price": "124.325 VES",
+        "available_usdt": "277.83",
+        "min_amount": "500 VES",
+        "max_amount": "200000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "TRIPLEING",
+        "price": "124.233 VES",
+        "available_usdt": "1375.00",
+        "min_amount": "7000 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "BBVA"
+    },
+    {
+        "seller": "Thony",
+        "price": "124.211 VES",
+        "available_usdt": "33.37",
+        "min_amount": "320 VES",
+        "max_amount": "12339 VES",
+        "completion_rate": "98.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "TiGRe_DiViNo_LaTiNo",
+        "price": "124.100 VES",
+        "available_usdt": "411.00",
+        "min_amount": "3000 VES",
+        "max_amount": "18900 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "thiash",
+        "price": "124.100 VES",
+        "available_usdt": "299.94",
+        "min_amount": "2000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Salem1998",
+        "price": "124.068 VES",
+        "available_usdt": "113.49",
+        "min_amount": "320 VES",
+        "max_amount": "80000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Mito",
+        "price": "124.052 VES",
+        "available_usdt": "800.00",
+        "min_amount": "1000 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "99.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "cambio_rapido_yasser",
+        "price": "124.040 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "10500 VES",
+        "completion_rate": "98.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "TradingWolfe",
+        "price": "124.010 VES",
+        "available_usdt": "17.88",
+        "min_amount": "2000 VES",
+        "max_amount": "20000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "MgImportsVE",
+        "price": "124.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "320 VES",
+        "max_amount": "123300 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Brpalen",
+        "price": "124.000 VES",
+        "available_usdt": "394.08",
+        "min_amount": "320 VES",
+        "max_amount": "50000 VES",
+        "completion_rate": "93.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "pr0isak",
+        "price": "124.000 VES",
+        "available_usdt": "1500.00",
+        "min_amount": "10000 VES",
+        "max_amount": "300000 VES",
+        "completion_rate": "96.00%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "nour",
+        "price": "124.000 VES",
+        "available_usdt": "500.00",
+        "min_amount": "5000 VES",
+        "max_amount": "142000 VES",
+        "completion_rate": "82.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "pedrodmx",
+        "price": "124.000 VES",
+        "available_usdt": "283.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "remPro",
+        "price": "124.000 VES",
+        "available_usdt": "195.00",
+        "min_amount": "5000 VES",
+        "max_amount": "36208 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "frinet",
+        "price": "124.000 VES",
+        "available_usdt": "150.00",
+        "min_amount": "350 VES",
+        "max_amount": "18000 VES",
+        "completion_rate": "84.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Reinny",
+        "price": "124.000 VES",
+        "available_usdt": "113.44",
+        "min_amount": "320 VES",
+        "max_amount": "26768 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "AxelKingS",
+        "price": "124.000 VES",
+        "available_usdt": "14000.00",
+        "min_amount": "90000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-093b26r5",
+        "price": "124.000 VES",
+        "available_usdt": "150.00",
+        "min_amount": "500 VES",
+        "max_amount": "18050 VES",
+        "completion_rate": "93.10%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "PitigueyCash",
+        "price": "124.000 VES",
+        "available_usdt": "675.62",
+        "min_amount": "2000 VES",
+        "max_amount": "800000 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "crypto_gabo19793",
+        "price": "124.000 VES",
+        "available_usdt": "500.00",
+        "min_amount": "2000 VES",
+        "max_amount": "62000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Habrahanp2p",
+        "price": "123.950 VES",
+        "available_usdt": "820.00",
+        "min_amount": "1500 VES",
+        "max_amount": "55000 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "OLDCARTO",
+        "price": "123.924 VES",
+        "available_usdt": "2252.23",
+        "min_amount": "20000 VES",
+        "max_amount": "1000000 VES",
+        "completion_rate": "99.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "JARC19",
+        "price": "123.923 VES",
+        "available_usdt": "2112.23",
+        "min_amount": "1000 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "Tucambiove",
+        "price": "123.650 VES",
+        "available_usdt": "2919.23",
+        "min_amount": "10000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "DRastro",
+        "price": "123.637 VES",
+        "available_usdt": "50109.07",
+        "min_amount": "700 VES",
+        "max_amount": "20000 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "M00BYD11CK",
+        "price": "123.636 VES",
+        "available_usdt": "510.45",
+        "min_amount": "1000 VES",
+        "max_amount": "800000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "eercripto",
+        "price": "123.635 VES",
+        "available_usdt": "41.53",
+        "min_amount": "700 VES",
+        "max_amount": "35000 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "azucambios",
+        "price": "123.510 VES",
+        "available_usdt": "2000.00",
+        "min_amount": "80000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "91.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CAMBIOS_ATC",
+        "price": "123.502 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "3000 VES",
+        "completion_rate": "96.90%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "humb16",
+        "price": "123.500 VES",
+        "available_usdt": "140.49",
+        "min_amount": "2000 VES",
+        "max_amount": "15000 VES",
+        "completion_rate": "88.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cambia-Seguro-01",
+        "price": "123.500 VES",
+        "available_usdt": "19279.92",
+        "min_amount": "2000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Elrefugiodecatgaby",
+        "price": "123.500 VES",
+        "available_usdt": "1200.00",
+        "min_amount": "1000 VES",
+        "max_amount": "159480 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Provincial"
+    },
+    {
+        "seller": "K-0S",
+        "price": "123.421 VES",
+        "available_usdt": "29.17",
+        "min_amount": "800 VES",
+        "max_amount": "45000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "EmiP2PFAST",
+        "price": "123.210 VES",
+        "available_usdt": "4.11",
+        "min_amount": "320 VES",
+        "max_amount": "15018 VES",
+        "completion_rate": "90.50%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Ericb",
+        "price": "123.201 VES",
+        "available_usdt": "204.96",
+        "min_amount": "1000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "93.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "DineroRapido-23",
+        "price": "123.200 VES",
+        "available_usdt": "605.68",
+        "min_amount": "1500 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "98.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Jasbri2025",
+        "price": "123.200 VES",
+        "available_usdt": "5499.11",
+        "min_amount": "200 VES",
+        "max_amount": "30000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "K_H2",
+        "price": "123.175 VES",
+        "available_usdt": "1896.05",
+        "min_amount": "5000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ADLRExpress",
+        "price": "123.100 VES",
+        "available_usdt": "2056.00",
+        "min_amount": "10000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Jesantab",
+        "price": "123.100 VES",
+        "available_usdt": "100.00",
+        "min_amount": "300 VES",
+        "max_amount": "364 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "JAMU19",
+        "price": "123.000 VES",
+        "available_usdt": "3000.00",
+        "min_amount": "70000 VES",
+        "max_amount": "265000 VES",
+        "completion_rate": "93.60%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "Cambios77",
+        "price": "123.000 VES",
+        "available_usdt": "1478.00",
+        "min_amount": "5000 VES",
+        "max_amount": "160000 VES",
+        "completion_rate": "96.80%",
+        "trade_method": "BNC Banco Nacional de Cr\u00e9dito"
+    },
+    {
+        "seller": "Kyepez11",
+        "price": "122.958 VES",
+        "available_usdt": "43086.61",
+        "min_amount": "5000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.20%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "MHC",
+        "price": "122.810 VES",
+        "available_usdt": "38.61",
+        "min_amount": "500 VES",
+        "max_amount": "1000000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Bancaribe"
+    },
+    {
+        "seller": "TUcambioPreferido",
+        "price": "122.800 VES",
+        "available_usdt": "18207.53",
+        "min_amount": "3000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "LADINASTIA_DLR",
+        "price": "122.600 VES",
+        "available_usdt": "14.29",
+        "min_amount": "80 VES",
+        "max_amount": "50000 VES",
+        "completion_rate": "99.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Zuly1760",
+        "price": "122.501 VES",
+        "available_usdt": "111.00",
+        "min_amount": "320 VES",
+        "max_amount": "5000 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "confianza868",
+        "price": "122.500 VES",
+        "available_usdt": "400.00",
+        "min_amount": "30000 VES",
+        "max_amount": "50000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CrisValenciAaAa",
+        "price": "122.200 VES",
+        "available_usdt": "225.10",
+        "min_amount": "180 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Iron478",
+        "price": "122.105 VES",
+        "available_usdt": "139.34",
+        "min_amount": "800 VES",
+        "max_amount": "10000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "adrubita",
+        "price": "122.050 VES",
+        "available_usdt": "2825.88",
+        "min_amount": "80 VES",
+        "max_amount": "140000 VES",
+        "completion_rate": "95.60%",
+        "trade_method": "BNC Banco Nacional de Cr\u00e9dito"
+    },
+    {
+        "seller": "Pocholin6",
+        "price": "122.000 VES",
+        "available_usdt": "180.00",
+        "min_amount": "20000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "95.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Carmoney2025",
+        "price": "122.000 VES",
+        "available_usdt": "250.00",
+        "min_amount": "800 VES",
+        "max_amount": "30000 VES",
+        "completion_rate": "97.10%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-e30afbf3",
+        "price": "122.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "6150 VES",
+        "max_amount": "122000 VES",
+        "completion_rate": "97.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "LeonardyV",
+        "price": "122.000 VES",
+        "available_usdt": "500.00",
+        "min_amount": "12200 VES",
+        "max_amount": "61000 VES",
+        "completion_rate": "80.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "RubenS",
+        "price": "122.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "1000 VES",
+        "max_amount": "12200 VES",
+        "completion_rate": "92.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "JAVCRIPTO16",
+        "price": "122.000 VES",
+        "available_usdt": "1975.05",
+        "min_amount": "3000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "natt323",
+        "price": "122.000 VES",
+        "available_usdt": "3959.25",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "95.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "INVERSIONES-KENAI",
+        "price": "122.000 VES",
+        "available_usdt": "28804.16",
+        "min_amount": "2500 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "86.30%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "Richgato_Cambios",
+        "price": "121.905 VES",
+        "available_usdt": "257.75",
+        "min_amount": "2000 VES",
+        "max_amount": "25000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "K_H2",
+        "price": "121.670 VES",
+        "available_usdt": "403.13",
+        "min_amount": "1000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cripto_J-J",
+        "price": "121.602 VES",
+        "available_usdt": "14.49",
+        "min_amount": "1000 VES",
+        "max_amount": "300000 VES",
+        "completion_rate": "98.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "JUNIOR",
+        "price": "121.560 VES",
+        "available_usdt": "177.47",
+        "min_amount": "320 VES",
+        "max_amount": "7000 VES",
+        "completion_rate": "99.00%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "Exchange-JS",
+        "price": "121.500 VES",
+        "available_usdt": "99.19",
+        "min_amount": "2400 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "CastellanosDnx",
+        "price": "121.500 VES",
+        "available_usdt": "100.00",
+        "min_amount": "9800 VES",
+        "max_amount": "9801 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "NORE19",
+        "price": "121.500 VES",
+        "available_usdt": "1095.00",
+        "min_amount": "20000 VES",
+        "max_amount": "300000 VES",
+        "completion_rate": "95.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cryptoffice",
+        "price": "121.300 VES",
+        "available_usdt": "90.05",
+        "min_amount": "1000 VES",
+        "max_amount": "5000 VES",
+        "completion_rate": "88.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "BusinessWoman7",
+        "price": "121.200 VES",
+        "available_usdt": "46295.92",
+        "min_amount": "30000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "97.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Compraventamundial",
+        "price": "121.110 VES",
+        "available_usdt": "1047.48",
+        "min_amount": "320 VES",
+        "max_amount": "15000 VES",
+        "completion_rate": "95.40%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "CJP2P",
+        "price": "121.100 VES",
+        "available_usdt": "1153.16",
+        "min_amount": "5000 VES",
+        "max_amount": "146900 VES",
+        "completion_rate": "98.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Lillie05",
+        "price": "121.000 VES",
+        "available_usdt": "35526.14",
+        "min_amount": "5000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "JokerSwap",
+        "price": "121.000 VES",
+        "available_usdt": "11500.00",
+        "min_amount": "4000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Traderfast-JP",
+        "price": "121.000 VES",
+        "available_usdt": "837.18",
+        "min_amount": "1000 VES",
+        "max_amount": "123800 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "BNC Banco Nacional de Cr\u00e9dito"
+    },
+    {
+        "seller": "P2P-650efbpl",
+        "price": "120.900 VES",
+        "available_usdt": "100.00",
+        "min_amount": "800 VES",
+        "max_amount": "6380 VES",
+        "completion_rate": "90.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "DineroRapido-23",
+        "price": "120.802 VES",
+        "available_usdt": "1282.98",
+        "min_amount": "700 VES",
+        "max_amount": "200000 VES",
+        "completion_rate": "98.80%",
+        "trade_method": "Provincial"
+    },
+    {
+        "seller": "INVERSIONES-KENAI",
+        "price": "120.540 VES",
+        "available_usdt": "30954.15",
+        "min_amount": "4000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "86.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "dordita",
+        "price": "120.500 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "10000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "LIBEROYA",
+        "price": "120.475 VES",
+        "available_usdt": "43685.38",
+        "min_amount": "1000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "96.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CresworldTC",
+        "price": "120.470 VES",
+        "available_usdt": "743.41",
+        "min_amount": "3000 VES",
+        "max_amount": "500000 VES",
+        "completion_rate": "99.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "Lillie05",
+        "price": "120.250 VES",
+        "available_usdt": "30517.42",
+        "min_amount": "2001 VES",
+        "max_amount": "1200000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "caguy",
+        "price": "120.080 VES",
+        "available_usdt": "150.00",
+        "min_amount": "400 VES",
+        "max_amount": "4700 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "SteveJobsLAB",
+        "price": "120.063 VES",
+        "available_usdt": "8116.12",
+        "min_amount": "200 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "86.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CriptoanimasLA",
+        "price": "120.051 VES",
+        "available_usdt": "116.72",
+        "min_amount": "1500 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.10%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-465000ru",
+        "price": "120.000 VES",
+        "available_usdt": "4000.00",
+        "min_amount": "100000 VES",
+        "max_amount": "480000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "eddiejlopez",
+        "price": "120.000 VES",
+        "available_usdt": "3500.00",
+        "min_amount": "120000 VES",
+        "max_amount": "600000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Machoi8",
+        "price": "120.000 VES",
+        "available_usdt": "12700.00",
+        "min_amount": "35000 VES",
+        "max_amount": "127000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Carlos Guarata",
+        "price": "120.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "500 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "BNC Banco Nacional de Cr\u00e9dito"
+    },
+    {
+        "seller": "Liseht",
+        "price": "120.000 VES",
+        "available_usdt": "500.00",
+        "min_amount": "800 VES",
+        "max_amount": "80000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ALVENCA",
+        "price": "120.000 VES",
+        "available_usdt": "650.00",
+        "min_amount": "1200 VES",
+        "max_amount": "80000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "edelgado",
+        "price": "120.000 VES",
+        "available_usdt": "130.00",
+        "min_amount": "1000 VES",
+        "max_amount": "15600 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "BelenCambios",
+        "price": "120.000 VES",
+        "available_usdt": "300.00",
+        "min_amount": "1000 VES",
+        "max_amount": "30000 VES",
+        "completion_rate": "99.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ExitosDigitales2020",
+        "price": "120.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "1000 VES",
+        "max_amount": "20000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "alcocerr",
+        "price": "120.000 VES",
+        "available_usdt": "505.00",
+        "min_amount": "320 VES",
+        "max_amount": "60000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "guzmanjoaq",
+        "price": "120.000 VES",
+        "available_usdt": "280.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Raav",
+        "price": "120.000 VES",
+        "available_usdt": "285.24",
+        "min_amount": "1800 VES",
+        "max_amount": "378010 VES",
+        "completion_rate": "97.70%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "DJ-Trader",
+        "price": "120.000 VES",
+        "available_usdt": "1340.00",
+        "min_amount": "4000 VES",
+        "max_amount": "200000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Carlos",
+        "price": "120.000 VES",
+        "available_usdt": "2000.00",
+        "min_amount": "5000 VES",
+        "max_amount": "300000 VES",
+        "completion_rate": "92.60%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "J-J-exchange",
+        "price": "120.000 VES",
+        "available_usdt": "646.21",
+        "min_amount": "350 VES",
+        "max_amount": "800000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Gama-",
+        "price": "120.000 VES",
+        "available_usdt": "2000.00",
+        "min_amount": "6000 VES",
+        "max_amount": "240000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "REY-DIAMANTE",
+        "price": "120.000 VES",
+        "available_usdt": "200.00",
+        "min_amount": "200 VES",
+        "max_amount": "15000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "JairGOVA\u8d3e\u5c14",
+        "price": "119.995 VES",
+        "available_usdt": "5882.74",
+        "min_amount": "116 VES",
+        "max_amount": "500000 VES",
+        "completion_rate": "94.80%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "EDANFINANZASOFICIAL",
+        "price": "119.209 VES",
+        "available_usdt": "5950.02",
+        "min_amount": "500 VES",
+        "max_amount": "20000 VES",
+        "completion_rate": "98.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "P2P-c6cce1pp",
+        "price": "119.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "1390 VES",
+        "max_amount": "1410 VES",
+        "completion_rate": "85.80%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Juansan",
+        "price": "119.000 VES",
+        "available_usdt": "590.00",
+        "min_amount": "1190 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "95.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Lake12345",
+        "price": "119.000 VES",
+        "available_usdt": "42.70",
+        "min_amount": "320 VES",
+        "max_amount": "7000 VES",
+        "completion_rate": "96.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Victorrazor04",
+        "price": "119.000 VES",
+        "available_usdt": "161.14",
+        "min_amount": "320 VES",
+        "max_amount": "8000 VES",
+        "completion_rate": "76.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Super_Yavi",
+        "price": "119.000 VES",
+        "available_usdt": "10000.00",
+        "min_amount": "50000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cambia-Seguro-01",
+        "price": "119.000 VES",
+        "available_usdt": "34839.49",
+        "min_amount": "1000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "mariadla",
+        "price": "118.500 VES",
+        "available_usdt": "287.31",
+        "min_amount": "80 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "99.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Digitalimport",
+        "price": "118.500 VES",
+        "available_usdt": "27323.01",
+        "min_amount": "1200 VES",
+        "max_amount": "70000 VES",
+        "completion_rate": "98.60%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "Albertoperna",
+        "price": "118.000 VES",
+        "available_usdt": "600.00",
+        "min_amount": "320 VES",
+        "max_amount": "600 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "SotoCambiosUSD",
+        "price": "118.000 VES",
+        "available_usdt": "2933.17",
+        "min_amount": "1900 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "98.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ZeldasBroker",
+        "price": "117.520 VES",
+        "available_usdt": "1930.63",
+        "min_amount": "1400 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "SweetRevengeP2P",
+        "price": "117.005 VES",
+        "available_usdt": "976.31",
+        "min_amount": "1000 VES",
+        "max_amount": "80000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "JuanBerbesi",
+        "price": "117.000 VES",
+        "available_usdt": "101.00",
+        "min_amount": "4170 VES",
+        "max_amount": "4171 VES",
+        "completion_rate": "96.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Losmorochos98",
+        "price": "117.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "10000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "91.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "InversionesJh",
+        "price": "117.000 VES",
+        "available_usdt": "950.00",
+        "min_amount": "1200 VES",
+        "max_amount": "24000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "INVERSIONES-KENAI",
+        "price": "117.000 VES",
+        "available_usdt": "28581.96",
+        "min_amount": "1000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "86.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "JhonAngTrader-s",
+        "price": "116.805 VES",
+        "available_usdt": "379.08",
+        "min_amount": "100 VES",
+        "max_amount": "250000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "fundatrade",
+        "price": "116.800 VES",
+        "available_usdt": "113.55",
+        "min_amount": "100 VES",
+        "max_amount": "80000 VES",
+        "completion_rate": "94.40%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "P2P-9af96dad",
+        "price": "116.180 VES",
+        "available_usdt": "120.00",
+        "min_amount": "1500 VES",
+        "max_amount": "13940 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "AmExchange26",
+        "price": "116.000 VES",
+        "available_usdt": "400.00",
+        "min_amount": "30000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "jotacambios06",
+        "price": "116.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "900 VES",
+        "max_amount": "20000 VES",
+        "completion_rate": "92.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "MrFrogs",
+        "price": "116.000 VES",
+        "available_usdt": "422.68",
+        "min_amount": "1000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "97.90%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "KINITO-P2P",
+        "price": "115.502 VES",
+        "available_usdt": "46.16",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "90.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cating",
+        "price": "115.105 VES",
+        "available_usdt": "121.00",
+        "min_amount": "80 VES",
+        "max_amount": "16000 VES",
+        "completion_rate": "99.00%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "Balthakk",
+        "price": "115.102 VES",
+        "available_usdt": "442.26",
+        "min_amount": "80 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "99.60%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "monchis",
+        "price": "115.000 VES",
+        "available_usdt": "200.00",
+        "min_amount": "11500 VES",
+        "max_amount": "23000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-ea331frr",
+        "price": "115.000 VES",
+        "available_usdt": "200.00",
+        "min_amount": "5750 VES",
+        "max_amount": "23000 VES",
+        "completion_rate": "75.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "rikk2611",
+        "price": "115.000 VES",
+        "available_usdt": "1500.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "88.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Hlpv130101",
+        "price": "115.000 VES",
+        "available_usdt": "15000.00",
+        "min_amount": "115000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "97.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "JeanF",
+        "price": "115.000 VES",
+        "available_usdt": "500.00",
+        "min_amount": "320 VES",
+        "max_amount": "57500 VES",
+        "completion_rate": "99.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Adafne",
+        "price": "115.000 VES",
+        "available_usdt": "119.44",
+        "min_amount": "500 VES",
+        "max_amount": "20000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CambiosSegurosLB20",
+        "price": "115.000 VES",
+        "available_usdt": "2963.53",
+        "min_amount": "1000 VES",
+        "max_amount": "400000 VES",
+        "completion_rate": "98.40%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Vitrol",
+        "price": "114.500 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "5050 VES",
+        "completion_rate": "73.40%",
+        "trade_method": "Provincial"
+    },
+    {
+        "seller": "GRECA",
+        "price": "114.002 VES",
+        "available_usdt": "500.00",
+        "min_amount": "80 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cambia-Seguro-01",
+        "price": "114.000 VES",
+        "available_usdt": "28065.92",
+        "min_amount": "700 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "REY-DIAMANTE",
+        "price": "114.000 VES",
+        "available_usdt": "428.55",
+        "min_amount": "80 VES",
+        "max_amount": "10000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Ubii Pagos"
+    },
+    {
+        "seller": "nixonfari",
+        "price": "113.617 VES",
+        "available_usdt": "400.00",
+        "min_amount": "1000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "baterinox",
+        "price": "113.000 VES",
+        "available_usdt": "133.43",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "90.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CarrilloSM1996",
+        "price": "112.200 VES",
+        "available_usdt": "3700.00",
+        "min_amount": "10000 VES",
+        "max_amount": "416000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "mariadla",
+        "price": "112.150 VES",
+        "available_usdt": "285.89",
+        "min_amount": "80 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "99.00%",
+        "trade_method": "BNC Banco Nacional de Cr\u00e9dito"
+    },
+    {
+        "seller": "Remesas_Gold_Lion",
+        "price": "112.110 VES",
+        "available_usdt": "100.00",
+        "min_amount": "100 VES",
+        "max_amount": "2800 VES",
+        "completion_rate": "95.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "emanueltin",
+        "price": "112.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "10000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "ENVIOSYC",
+        "price": "112.000 VES",
+        "available_usdt": "220.64",
+        "min_amount": "100 VES",
+        "max_amount": "38370 VES",
+        "completion_rate": "97.10%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "jhonbb11",
+        "price": "110.520 VES",
+        "available_usdt": "956.76",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "98.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Psico_T",
+        "price": "110.500 VES",
+        "available_usdt": "700.00",
+        "min_amount": "20000 VES",
+        "max_amount": "77300 VES",
+        "completion_rate": "91.20%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Jecp20",
+        "price": "110.300 VES",
+        "available_usdt": "100.00",
+        "min_amount": "350 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "99.20%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "leslylopez",
+        "price": "110.000 VES",
+        "available_usdt": "9000.00",
+        "min_amount": "110000 VES",
+        "max_amount": "660000 VES",
+        "completion_rate": "96.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "elcrypto",
+        "price": "110.000 VES",
+        "available_usdt": "411.81",
+        "min_amount": "2500 VES",
+        "max_amount": "45300 VES",
+        "completion_rate": "98.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "japa3002",
+        "price": "110.000 VES",
+        "available_usdt": "650.00",
+        "min_amount": "2000 VES",
+        "max_amount": "75000 VES",
+        "completion_rate": "92.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-7435c70y",
+        "price": "110.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "1200 VES",
+        "completion_rate": "77.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "PypTraders",
+        "price": "110.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "3000 VES",
+        "max_amount": "4000 VES",
+        "completion_rate": "90.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "mitox",
+        "price": "110.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "500 VES",
+        "max_amount": "50000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Provincial"
+    },
+    {
+        "seller": "CORPMolpri",
+        "price": "110.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "14000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Stinmaster",
+        "price": "110.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "94.20%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-01d876ol",
+        "price": "110.000 VES",
+        "available_usdt": "218.00",
+        "min_amount": "320 VES",
+        "max_amount": "24000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "Jesuseag",
+        "price": "110.000 VES",
+        "available_usdt": "150.00",
+        "min_amount": "320 VES",
+        "max_amount": "19000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "MrCoinSage",
+        "price": "110.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "320 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "97.20%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "Gerardoggm",
+        "price": "110.000 VES",
+        "available_usdt": "180.00",
+        "min_amount": "440 VES",
+        "max_amount": "11000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "07-Transpor",
+        "price": "110.000 VES",
+        "available_usdt": "4000.00",
+        "min_amount": "300 VES",
+        "max_amount": "563000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Provincial"
+    },
+    {
+        "seller": "Omarmav",
+        "price": "110.000 VES",
+        "available_usdt": "80000.00",
+        "min_amount": "50000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.20%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "GaboF28",
+        "price": "110.000 VES",
+        "available_usdt": "300.00",
+        "min_amount": "8000 VES",
+        "max_amount": "40000 VES",
+        "completion_rate": "91.00%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "Carlos",
+        "price": "110.000 VES",
+        "available_usdt": "1930.05",
+        "min_amount": "1000 VES",
+        "max_amount": "300000 VES",
+        "completion_rate": "92.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "alelean",
+        "price": "110.000 VES",
+        "available_usdt": "804.97",
+        "min_amount": "900 VES",
+        "max_amount": "800000 VES",
+        "completion_rate": "99.60%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "CAMBIOS-CRYPTOS",
+        "price": "109.000 VES",
+        "available_usdt": "58547.26",
+        "min_amount": "500 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "COMMERCE-15Min",
+        "price": "108.000 VES",
+        "available_usdt": "69.58",
+        "min_amount": "200 VES",
+        "max_amount": "5000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "Pasatiempo",
+        "price": "107.106 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "7000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "EdwR10",
+        "price": "107.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "1070 VES",
+        "max_amount": "10700 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CAMBIOS-CRYPTOS",
+        "price": "107.000 VES",
+        "available_usdt": "15563.46",
+        "min_amount": "400 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Fast-26",
+        "price": "106.914 VES",
+        "available_usdt": "150.00",
+        "min_amount": "80 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.90%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "P2P-38a60fzn",
+        "price": "106.901 VES",
+        "available_usdt": "150.00",
+        "min_amount": "535 VES",
+        "max_amount": "16000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-889706ib",
+        "price": "106.090 VES",
+        "available_usdt": "143.00",
+        "min_amount": "320 VES",
+        "max_amount": "15170 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "YePiEr",
+        "price": "105.732 VES",
+        "available_usdt": "30400.05",
+        "min_amount": "3500 VES",
+        "max_amount": "900000 VES",
+        "completion_rate": "92.40%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "Nenop2p",
+        "price": "105.500 VES",
+        "available_usdt": "950.00",
+        "min_amount": "1500 VES",
+        "max_amount": "95000 VES",
+        "completion_rate": "92.00%",
+        "trade_method": "Provincial"
+    },
+    {
+        "seller": "CRYPTOFIAT",
+        "price": "105.500 VES",
+        "available_usdt": "9383.57",
+        "min_amount": "220 VES",
+        "max_amount": "14000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "frank1886",
+        "price": "105.300 VES",
+        "available_usdt": "1072.14",
+        "min_amount": "900 VES",
+        "max_amount": "500000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "frank1886",
+        "price": "105.136 VES",
+        "available_usdt": "1986.91",
+        "min_amount": "700 VES",
+        "max_amount": "500000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ZeldasBroker",
+        "price": "105.130 VES",
+        "available_usdt": "1940.58",
+        "min_amount": "600 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CRYPTOFIAT",
+        "price": "105.026 VES",
+        "available_usdt": "3369.68",
+        "min_amount": "500 VES",
+        "max_amount": "14000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "frank1886",
+        "price": "105.015 VES",
+        "available_usdt": "1981.60",
+        "min_amount": "300 VES",
+        "max_amount": "500000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ZeldasBroker",
+        "price": "105.001 VES",
+        "available_usdt": "1994.56",
+        "min_amount": "200 VES",
+        "max_amount": "300000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "IsManGold",
+        "price": "105.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "360 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "kingvzlatrade",
+        "price": "105.000 VES",
+        "available_usdt": "1050.00",
+        "min_amount": "10500 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "CambiosAB",
+        "price": "105.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "3000 VES",
+        "max_amount": "20000 VES",
+        "completion_rate": "90.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Exchange-JS",
+        "price": "105.000 VES",
+        "available_usdt": "9380.53",
+        "min_amount": "100 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "Yisus",
+        "price": "104.820 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-5d59402y",
+        "price": "104.132 VES",
+        "available_usdt": "5000.00",
+        "min_amount": "100000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "92.90%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "los laya",
+        "price": "103.800 VES",
+        "available_usdt": "125.00",
+        "min_amount": "6000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "97.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Reinaldo",
+        "price": "103.500 VES",
+        "available_usdt": "14980.05",
+        "min_amount": "1050 VES",
+        "max_amount": "150000 VES",
+        "completion_rate": "82.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "wacodivisas",
+        "price": "103.000 VES",
+        "available_usdt": "3835.30",
+        "min_amount": "30000 VES",
+        "max_amount": "150000 VES",
+        "completion_rate": "96.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Gregor92",
+        "price": "102.600 VES",
+        "available_usdt": "3000.00",
+        "min_amount": "20000 VES",
+        "max_amount": "300000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Gilbinho",
+        "price": "102.052 VES",
+        "available_usdt": "48084.10",
+        "min_amount": "1000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "dan_cambio",
+        "price": "101.082 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "10000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-a80112bp",
+        "price": "100.500 VES",
+        "available_usdt": "195.03",
+        "min_amount": "320 VES",
+        "max_amount": "10000 VES",
+        "completion_rate": "85.80%",
+        "trade_method": "Banplus"
+    },
+    {
+        "seller": "P2P-b5de21op",
+        "price": "100.500 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "3200 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "BNC Banco Nacional de Cr\u00e9dito"
+    },
+    {
+        "seller": "P2P-c630a98l",
+        "price": "100.100 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banco Plaza"
+    },
+    {
+        "seller": "CRYPTOFIAT",
+        "price": "100.005 VES",
+        "available_usdt": "2669.36",
+        "min_amount": "100 VES",
+        "max_amount": "13000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Limap",
+        "price": "100.001 VES",
+        "available_usdt": "25000.00",
+        "min_amount": "320 VES",
+        "max_amount": "30000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "User204263142",
+        "price": "100.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "95000 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "93.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ING CRIPTO ",
+        "price": "100.000 VES",
+        "available_usdt": "1600.00",
+        "min_amount": "320 VES",
+        "max_amount": "160000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Anibal",
+        "price": "100.000 VES",
+        "available_usdt": "500.00",
+        "min_amount": "1000 VES",
+        "max_amount": "50000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "CriptoSoff",
+        "price": "100.000 VES",
+        "available_usdt": "130.00",
+        "min_amount": "2500 VES",
+        "max_amount": "13000 VES",
+        "completion_rate": "94.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cambioavilaflash",
+        "price": "100.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "3000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "MarcosJRiveroO",
+        "price": "100.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "4000 VES",
+        "max_amount": "4500 VES",
+        "completion_rate": "86.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "juanaular6681",
+        "price": "100.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "5000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "LMFR09",
+        "price": "100.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "1160 VES",
+        "max_amount": "11600 VES",
+        "completion_rate": "80.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "luismcordero",
+        "price": "100.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "50000 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "95.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "levicr",
+        "price": "100.000 VES",
+        "available_usdt": "1400.00",
+        "min_amount": "1000 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "carlosapp",
+        "price": "100.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "1000 VES",
+        "max_amount": "10000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "rieragrey",
+        "price": "100.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "DineroRapido-23",
+        "price": "100.000 VES",
+        "available_usdt": "19953.39",
+        "min_amount": "100 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "98.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Sky-FlasH_",
+        "price": "100.000 VES",
+        "available_usdt": "1078.71",
+        "min_amount": "2000 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "99.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "cambios_Vla19",
+        "price": "98.900 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "5000 VES",
+        "completion_rate": "98.50%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "CriptoSCR",
+        "price": "98.000 VES",
+        "available_usdt": "556.66",
+        "min_amount": "320 VES",
+        "max_amount": "9990 VES",
+        "completion_rate": "92.00%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "Omarmav",
+        "price": "97.312 VES",
+        "available_usdt": "80000.00",
+        "min_amount": "50000 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.20%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "DavidSEM",
+        "price": "97.310 VES",
+        "available_usdt": "100.00",
+        "min_amount": "321 VES",
+        "max_amount": "9731 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "pachanocoin",
+        "price": "97.180 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "TheGodFollower",
+        "price": "97.180 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "500 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "_La_Finca_Cafe_Vzla_",
+        "price": "97.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "50000 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cristhianbaeta",
+        "price": "97.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "450 VES",
+        "max_amount": "9700 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "angrangont",
+        "price": "96.650 VES",
+        "available_usdt": "200.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "93.80%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Juveline",
+        "price": "96.610 VES",
+        "available_usdt": "381.92",
+        "min_amount": "30000 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "88.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Elguason28",
+        "price": "96.610 VES",
+        "available_usdt": "175.97",
+        "min_amount": "320 VES",
+        "max_amount": "17000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-ef243eqj",
+        "price": "96.610 VES",
+        "available_usdt": "350.00",
+        "min_amount": "10000 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "85.80%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "EL_We",
+        "price": "96.000 VES",
+        "available_usdt": "30000.00",
+        "min_amount": "320 VES",
+        "max_amount": "10000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "SweetRevengeP2P",
+        "price": "95.010 VES",
+        "available_usdt": "1221.67",
+        "min_amount": "300 VES",
+        "max_amount": "60000 VES",
+        "completion_rate": "99.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-b6ba6fl9",
+        "price": "95.000 VES",
+        "available_usdt": "601.00",
+        "min_amount": "20200 VES",
+        "max_amount": "20300 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Anajulia7",
+        "price": "94.999 VES",
+        "available_usdt": "100.00",
+        "min_amount": "5000 VES",
+        "max_amount": "8000 VES",
+        "completion_rate": "50.00%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "liliana",
+        "price": "94.030 VES",
+        "available_usdt": "250.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "makoscryptos",
+        "price": "94.000 VES",
+        "available_usdt": "200.00",
+        "min_amount": "8000 VES",
+        "max_amount": "50000 VES",
+        "completion_rate": "93.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Israelefa",
+        "price": "93.000 VES",
+        "available_usdt": "20.48",
+        "min_amount": "320 VES",
+        "max_amount": "20000 VES",
+        "completion_rate": "95.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-937351gb",
+        "price": "92.242 VES",
+        "available_usdt": "115.00",
+        "min_amount": "3000 VES",
+        "max_amount": "8000 VES",
+        "completion_rate": "80.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Yule08",
+        "price": "92.000 VES",
+        "available_usdt": "2400.00",
+        "min_amount": "460 VES",
+        "max_amount": "220800 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Willa2408",
+        "price": "91.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "8000 VES",
+        "max_amount": "9900 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Mandotrading",
+        "price": "90.000 VES",
+        "available_usdt": "233.00",
+        "min_amount": "10000 VES",
+        "max_amount": "20970 VES",
+        "completion_rate": "95.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Laizarrrd",
+        "price": "90.000 VES",
+        "available_usdt": "1700.00",
+        "min_amount": "1000 VES",
+        "max_amount": "150000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "dsfljose",
+        "price": "90.000 VES",
+        "available_usdt": "300.00",
+        "min_amount": "2000 VES",
+        "max_amount": "20000 VES",
+        "completion_rate": "78.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "GIROSKIMDONG",
+        "price": "90.000 VES",
+        "available_usdt": "1500.00",
+        "min_amount": "900 VES",
+        "max_amount": "135000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-169bd9f6",
+        "price": "90.000 VES",
+        "available_usdt": "300.00",
+        "min_amount": "2000 VES",
+        "max_amount": "30000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "forexmoney",
+        "price": "88.022 VES",
+        "available_usdt": "2275.00",
+        "min_amount": "200250 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "alelean",
+        "price": "88.000 VES",
+        "available_usdt": "7500.00",
+        "min_amount": "80 VES",
+        "max_amount": "800000 VES",
+        "completion_rate": "99.60%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "AskenLurom",
+        "price": "87.556 VES",
+        "available_usdt": "2500.00",
+        "min_amount": "80 VES",
+        "max_amount": "300000 VES",
+        "completion_rate": "94.90%",
+        "trade_method": "Provincial"
+    },
+    {
+        "seller": "angeldoza25",
+        "price": "87.500 VES",
+        "available_usdt": "15265.37",
+        "min_amount": "1000 VES",
+        "max_amount": "500000 VES",
+        "completion_rate": "98.70%",
+        "trade_method": "BNC Banco Nacional de Cr\u00e9dito"
+    },
+    {
+        "seller": "Euman",
+        "price": "87.473 VES",
+        "available_usdt": "79141.33",
+        "min_amount": "180 VES",
+        "max_amount": "720000 VES",
+        "completion_rate": "95.80%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "Money_3",
+        "price": "87.473 VES",
+        "available_usdt": "325.83",
+        "min_amount": "200 VES",
+        "max_amount": "1400000 VES",
+        "completion_rate": "99.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "alfredoagrela",
+        "price": "87.473 VES",
+        "available_usdt": "9000.00",
+        "min_amount": "10000 VES",
+        "max_amount": "435000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "RapiCambios_ve",
+        "price": "87.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "8600 VES",
+        "max_amount": "8700 VES",
+        "completion_rate": "85.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "0TRAIDING0",
+        "price": "87.000 VES",
+        "available_usdt": "300.00",
+        "min_amount": "10000 VES",
+        "max_amount": "26100 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "Tuus",
+        "price": "85.000 VES",
+        "available_usdt": "115.00",
+        "min_amount": "3000 VES",
+        "max_amount": "9085 VES",
+        "completion_rate": "92.40%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "BleyckG",
+        "price": "85.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "1700 VES",
+        "completion_rate": "96.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Mg2911",
+        "price": "85.000 VES",
+        "available_usdt": "145.00",
+        "min_amount": "8500 VES",
+        "max_amount": "12325 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "aurinegro",
+        "price": "85.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "1800 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-14ad20g0",
+        "price": "84.590 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Kairos_Trading",
+        "price": "84.360 VES",
+        "available_usdt": "370.00",
+        "min_amount": "10000 VES",
+        "max_amount": "30000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "AlejandroSanz",
+        "price": "83.500 VES",
+        "available_usdt": "600.00",
+        "min_amount": "40000 VES",
+        "max_amount": "52000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "YePiEr",
+        "price": "83.099 VES",
+        "available_usdt": "8224.73",
+        "min_amount": "250 VES",
+        "max_amount": "400000 VES",
+        "completion_rate": "92.40%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "Ng2108",
+        "price": "83.000 VES",
+        "available_usdt": "20000.00",
+        "min_amount": "320 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Frankmb",
+        "price": "82.000 VES",
+        "available_usdt": "5000.00",
+        "min_amount": "8200 VES",
+        "max_amount": "410000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "victorf",
+        "price": "82.000 VES",
+        "available_usdt": "101.00",
+        "min_amount": "325 VES",
+        "max_amount": "3400 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "frnko09",
+        "price": "81.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "500 VES",
+        "max_amount": "8100 VES",
+        "completion_rate": "94.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "LAflordeApure",
+        "price": "80.264 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Willi0102",
+        "price": "80.000 VES",
+        "available_usdt": "750.00",
+        "min_amount": "8000 VES",
+        "max_amount": "60000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "robertalv1",
+        "price": "80.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "8000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Rafafuentes",
+        "price": "79.260 VES",
+        "available_usdt": "500.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "91.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "riosjhonny",
+        "price": "79.250 VES",
+        "available_usdt": "100.00",
+        "min_amount": "800 VES",
+        "max_amount": "8000 VES",
+        "completion_rate": "95.80%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Luciandy",
+        "price": "78.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "2150 VES",
+        "completion_rate": "66.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "reusalex",
+        "price": "78.000 VES",
+        "available_usdt": "2400.00",
+        "min_amount": "390 VES",
+        "max_amount": "187200 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-3510935g",
+        "price": "77.142 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "P2P-SAEM-SINAI",
+        "price": "77.070 VES",
+        "available_usdt": "30000.00",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "josenehme",
+        "price": "76.700 VES",
+        "available_usdt": "3600.00",
+        "min_amount": "200000 VES",
+        "max_amount": "276500 VES",
+        "completion_rate": "80.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "leonelhr23",
+        "price": "75.520 VES",
+        "available_usdt": "245.00",
+        "min_amount": "1000 VES",
+        "max_amount": "18498 VES",
+        "completion_rate": "98.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "gomez216",
+        "price": "75.275 VES",
+        "available_usdt": "100.00",
+        "min_amount": "7520 VES",
+        "max_amount": "7527 VES",
+        "completion_rate": "97.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "rinm",
+        "price": "75.020 VES",
+        "available_usdt": "2500.00",
+        "min_amount": "350 VES",
+        "max_amount": "900 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "nwryuntaa",
+        "price": "75.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "1000 VES",
+        "max_amount": "10000 VES",
+        "completion_rate": "95.50%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "Cbzagatopoz",
+        "price": "75.000 VES",
+        "available_usdt": "2969.00",
+        "min_amount": "320 VES",
+        "max_amount": "210000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-07be2f8n",
+        "price": "74.000 VES",
+        "available_usdt": "115.00",
+        "min_amount": "750 VES",
+        "max_amount": "8600 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-dbceffnc",
+        "price": "74.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "400 VES",
+        "max_amount": "2500 VES",
+        "completion_rate": "93.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Argenito191",
+        "price": "74.000 VES",
+        "available_usdt": "160.00",
+        "min_amount": "7400 VES",
+        "max_amount": "11686 VES",
+        "completion_rate": "75.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "RjizusT",
+        "price": "73.000 VES",
+        "available_usdt": "150.00",
+        "min_amount": "400 VES",
+        "max_amount": "10950 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Sosantoos",
+        "price": "73.000 VES",
+        "available_usdt": "400.00",
+        "min_amount": "2620 VES",
+        "max_amount": "26200 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "bace",
+        "price": "72.124 VES",
+        "available_usdt": "600.00",
+        "min_amount": "320 VES",
+        "max_amount": "45000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "gmviale",
+        "price": "72.000 VES",
+        "available_usdt": "5000.00",
+        "min_amount": "720 VES",
+        "max_amount": "150000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-a7b3bdzo",
+        "price": "72.000 VES",
+        "available_usdt": "5000.00",
+        "min_amount": "72000 VES",
+        "max_amount": "360000 VES",
+        "completion_rate": "80.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Viccfc26",
+        "price": "72.000 VES",
+        "available_usdt": "10000.00",
+        "min_amount": "2000 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Ceta11",
+        "price": "70.490 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "840 VES",
+        "max_amount": "9000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "RAPICAMBIOSCCS",
+        "price": "70.331 VES",
+        "available_usdt": "4500.00",
+        "min_amount": "7500 VES",
+        "max_amount": "316000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CryptoSaimon",
+        "price": "70.053 VES",
+        "available_usdt": "220.00",
+        "min_amount": "680 VES",
+        "max_amount": "16000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Casacripto20",
+        "price": "70.031 VES",
+        "available_usdt": "200.00",
+        "min_amount": "350 VES",
+        "max_amount": "2000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "kekeleon",
+        "price": "70.000 VES",
+        "available_usdt": "400.00",
+        "min_amount": "2800 VES",
+        "max_amount": "56000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Jho-na",
+        "price": "70.000 VES",
+        "available_usdt": "170.00",
+        "min_amount": "6000 VES",
+        "max_amount": "12000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "adagreic01",
+        "price": "70.000 VES",
+        "available_usdt": "2400.00",
+        "min_amount": "350 VES",
+        "max_amount": "500 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "yorman1985",
+        "price": "70.000 VES",
+        "available_usdt": "300.00",
+        "min_amount": "1000 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "95.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "RoderithAntony",
+        "price": "70.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "2000 VES",
+        "max_amount": "7000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "GennAds",
+        "price": "70.000 VES",
+        "available_usdt": "300.00",
+        "min_amount": "7000 VES",
+        "max_amount": "21000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ATG-Trade",
+        "price": "69.900 VES",
+        "available_usdt": "5747.46",
+        "min_amount": "80000 VES",
+        "max_amount": "400000 VES",
+        "completion_rate": "99.20%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-42086fvi",
+        "price": "69.100 VES",
+        "available_usdt": "100.00",
+        "min_amount": "350 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CambiosSeguroGregory",
+        "price": "69.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "2000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Roger94",
+        "price": "69.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "6600 VES",
+        "max_amount": "70000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "nick1244",
+        "price": "68.210 VES",
+        "available_usdt": "20700.00",
+        "min_amount": "320000 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "97.90%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "marilinda2509",
+        "price": "67.800 VES",
+        "available_usdt": "100.00",
+        "min_amount": "3527 VES",
+        "max_amount": "3528 VES",
+        "completion_rate": "90.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Schuchomacher",
+        "price": "67.500 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "320 VES",
+        "max_amount": "400000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Hijode_Dios",
+        "price": "67.180 VES",
+        "available_usdt": "100.00",
+        "min_amount": "1800 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Florenmar1",
+        "price": "67.000 VES",
+        "available_usdt": "500.00",
+        "min_amount": "6500 VES",
+        "max_amount": "32500 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Sra_GABY-2410",
+        "price": "66.350 VES",
+        "available_usdt": "2961.20",
+        "min_amount": "320 VES",
+        "max_amount": "700000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Yliehac",
+        "price": "66.000 VES",
+        "available_usdt": "3000.00",
+        "min_amount": "6600 VES",
+        "max_amount": "198000 VES",
+        "completion_rate": "97.90%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "KatiuskaGonnella",
+        "price": "65.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "350 VES",
+        "max_amount": "5000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Dardigital9",
+        "price": "65.000 VES",
+        "available_usdt": "500.00",
+        "min_amount": "900 VES",
+        "max_amount": "31500 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "onerom06",
+        "price": "64.950 VES",
+        "available_usdt": "100.00",
+        "min_amount": "3000 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "onerom06",
+        "price": "64.950 VES",
+        "available_usdt": "100.00",
+        "min_amount": "3000 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "brandi777",
+        "price": "64.500 VES",
+        "available_usdt": "100.00",
+        "min_amount": "350 VES",
+        "max_amount": "6450 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-dd29fdpl",
+        "price": "64.100 VES",
+        "available_usdt": "198.00",
+        "min_amount": "3300 VES",
+        "max_amount": "12800 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "jose ",
+        "price": "63.500 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "320 VES",
+        "max_amount": "63500 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "001CT",
+        "price": "63.330 VES",
+        "available_usdt": "130.00",
+        "min_amount": "8000 VES",
+        "max_amount": "8173 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "marceloperalta12",
+        "price": "63.000 VES",
+        "available_usdt": "260.00",
+        "min_amount": "1280 VES",
+        "max_amount": "17000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "RiesgoCero",
+        "price": "63.000 VES",
+        "available_usdt": "150.00",
+        "min_amount": "3150 VES",
+        "max_amount": "9450 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "LaSabiduria",
+        "price": "63.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "40000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "xxhh",
+        "price": "62.997 VES",
+        "available_usdt": "2000.00",
+        "min_amount": "50000 VES",
+        "max_amount": "58718 VES",
+        "completion_rate": "94.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Bendecido",
+        "price": "61.400 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "6000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "BarrocoCcs",
+        "price": "61.000 VES",
+        "available_usdt": "457.00",
+        "min_amount": "6500 VES",
+        "max_amount": "26049 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banco Venezolano de Cr\u00e9dito"
+    },
+    {
+        "seller": "BiggunTM__",
+        "price": "60.500 VES",
+        "available_usdt": "163.64",
+        "min_amount": "625 VES",
+        "max_amount": "630 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "P2P-4c858efo",
+        "price": "60.500 VES",
+        "available_usdt": "850.00",
+        "min_amount": "320 VES",
+        "max_amount": "50000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-6e239awx",
+        "price": "60.430 VES",
+        "available_usdt": "100.00",
+        "min_amount": "500 VES",
+        "max_amount": "1200 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "tu_mejor-opcion",
+        "price": "60.000 VES",
+        "available_usdt": "101.00",
+        "min_amount": "330 VES",
+        "max_amount": "400 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "DcElectronics",
+        "price": "60.000 VES",
+        "available_usdt": "500.00",
+        "min_amount": "6000 VES",
+        "max_amount": "30000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "emisael89",
+        "price": "59.540 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "5954 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "yosetaz",
+        "price": "59.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "590 VES",
+        "max_amount": "6000 VES",
+        "completion_rate": "95.30%",
+        "trade_method": "Bank Transfer"
+    },
+    {
+        "seller": "teamcardinale97",
+        "price": "59.000 VES",
+        "available_usdt": "900.00",
+        "min_amount": "15000 VES",
+        "max_amount": "53100 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "P2P-51b9b3cz",
+        "price": "58.370 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "1700 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-51b9b3cz",
+        "price": "58.370 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "1700 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-4ab9df9w",
+        "price": "58.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "2900 VES",
+        "max_amount": "5800 VES",
+        "completion_rate": "94.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Native",
+        "price": "57.002 VES",
+        "available_usdt": "200.00",
+        "min_amount": "320 VES",
+        "max_amount": "400 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cambios_Renc",
+        "price": "57.000 VES",
+        "available_usdt": "300.00",
+        "min_amount": "320 VES",
+        "max_amount": "5800 VES",
+        "completion_rate": "98.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "rrtorres77",
+        "price": "56.810 VES",
+        "available_usdt": "100.00",
+        "min_amount": "1000 VES",
+        "max_amount": "4600 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "inversionesEla",
+        "price": "56.600 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "800 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "thelarez",
+        "price": "56.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "400 VES",
+        "max_amount": "600 VES",
+        "completion_rate": "75.00%",
+        "trade_method": "BNC Banco Nacional de Cr\u00e9dito"
+    },
+    {
+        "seller": "nftprojectpay",
+        "price": "55.699 VES",
+        "available_usdt": "120.00",
+        "min_amount": "320 VES",
+        "max_amount": "70000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "luis100x100to",
+        "price": "55.620 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "3000 VES",
+        "completion_rate": "95.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-4bf20e8v",
+        "price": "55.000 VES",
+        "available_usdt": "200.00",
+        "min_amount": "330 VES",
+        "max_amount": "5500 VES",
+        "completion_rate": "93.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "tavo7589",
+        "price": "55.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "5500 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "AACriptoExchange",
+        "price": "54.350 VES",
+        "available_usdt": "5000.00",
+        "min_amount": "15000 VES",
+        "max_amount": "271500 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-4ca411n8",
+        "price": "54.300 VES",
+        "available_usdt": "100.00",
+        "min_amount": "2000 VES",
+        "max_amount": "2060 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Mr_Money7",
+        "price": "53.500 VES",
+        "available_usdt": "100.00",
+        "min_amount": "534 VES",
+        "max_amount": "535 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-94f152mg",
+        "price": "53.000 VES",
+        "available_usdt": "190.00",
+        "min_amount": "5000 VES",
+        "max_amount": "10070 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Katheka",
+        "price": "53.000 VES",
+        "available_usdt": "1200.00",
+        "min_amount": "60000 VES",
+        "max_amount": "70000 VES",
+        "completion_rate": "95.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "PROCOMTECHN",
+        "price": "51.730 VES",
+        "available_usdt": "110.00",
+        "min_amount": "508 VES",
+        "max_amount": "5580 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "josepardotrejo",
+        "price": "51.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "510 VES",
+        "max_amount": "5100 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Psynavi",
+        "price": "51.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "2000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "punkesito",
+        "price": "50.500 VES",
+        "available_usdt": "2000.00",
+        "min_amount": "50000 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "87.50%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Samurai1986",
+        "price": "50.000 VES",
+        "available_usdt": "4500.00",
+        "min_amount": "320 VES",
+        "max_amount": "235394 VES",
+        "completion_rate": "95.30%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Danieldvrv",
+        "price": "49.440 VES",
+        "available_usdt": "126.00",
+        "min_amount": "5990 VES",
+        "max_amount": "6000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-ebddd5s5",
+        "price": "49.410 VES",
+        "available_usdt": "25000.00",
+        "min_amount": "80000 VES",
+        "max_amount": "120000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ElGordo",
+        "price": "49.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "400 VES",
+        "max_amount": "3000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Josesad99",
+        "price": "49.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "320 VES",
+        "max_amount": "1000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-d05a21k1",
+        "price": "47.750 VES",
+        "available_usdt": "100.00",
+        "min_amount": "900 VES",
+        "max_amount": "4775 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "Blanche77",
+        "price": "47.550 VES",
+        "available_usdt": "100.00",
+        "min_amount": "600 VES",
+        "max_amount": "61000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "lugocobis",
+        "price": "47.544 VES",
+        "available_usdt": "260.00",
+        "min_amount": "2000 VES",
+        "max_amount": "5000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Jbarranco",
+        "price": "47.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "1000 VES",
+        "max_amount": "2500 VES",
+        "completion_rate": "98.20%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "P2P-21f9b8p0",
+        "price": "46.000 VES",
+        "available_usdt": "1500.00",
+        "min_amount": "4300 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "JesusLuc11",
+        "price": "46.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "320 VES",
+        "max_amount": "45000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ThonyCryptoo",
+        "price": "45.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "1000 VES",
+        "max_amount": "25000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Vavd18",
+        "price": "45.000 VES",
+        "available_usdt": "2000.00",
+        "min_amount": "450 VES",
+        "max_amount": "90000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Chaparroa",
+        "price": "45.000 VES",
+        "available_usdt": "5000.00",
+        "min_amount": "100000 VES",
+        "max_amount": "225000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "alfredojreyes",
+        "price": "45.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "2500 VES",
+        "max_amount": "45000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Alejandropazos27",
+        "price": "45.000 VES",
+        "available_usdt": "390.00",
+        "min_amount": "500 VES",
+        "max_amount": "18000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "sole",
+        "price": "44.000 VES",
+        "available_usdt": "565.00",
+        "min_amount": "5000 VES",
+        "max_amount": "25000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "xtremefx",
+        "price": "44.000 VES",
+        "available_usdt": "816.00",
+        "min_amount": "35865 VES",
+        "max_amount": "35866 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Jhirluck",
+        "price": "44.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "350 VES",
+        "max_amount": "4400 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "solidscript",
+        "price": "43.560 VES",
+        "available_usdt": "201.00",
+        "min_amount": "8680 VES",
+        "max_amount": "8681 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "karlucho",
+        "price": "43.000 VES",
+        "available_usdt": "4000.00",
+        "min_amount": "500 VES",
+        "max_amount": "172000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "Viobtc",
+        "price": "43.000 VES",
+        "available_usdt": "250.00",
+        "min_amount": "6450 VES",
+        "max_amount": "10750 VES",
+        "completion_rate": "94.80%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-be5bb1wm",
+        "price": "42.000 VES",
+        "available_usdt": "400.00",
+        "min_amount": "420 VES",
+        "max_amount": "16800 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "alfo",
+        "price": "41.500 VES",
+        "available_usdt": "485.18",
+        "min_amount": "500 VES",
+        "max_amount": "18650 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Mercantil"
+    },
+    {
+        "seller": "dome2411",
+        "price": "41.000 VES",
+        "available_usdt": "500.00",
+        "min_amount": "280 VES",
+        "max_amount": "20500 VES",
+        "completion_rate": "82.90%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "lexmar1",
+        "price": "40.900 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "40900 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cripto usdt",
+        "price": "40.200 VES",
+        "available_usdt": "100.00",
+        "min_amount": "280 VES",
+        "max_amount": "4020 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Transfers with specific bank"
+    },
+    {
+        "seller": "P2P-b49731uf",
+        "price": "40.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "2000 VES",
+        "max_amount": "4000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Gabrielidrogo",
+        "price": "40.000 VES",
+        "available_usdt": "700.00",
+        "min_amount": "280 VES",
+        "max_amount": "30000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "P2P-6d70c0d5",
+        "price": "40.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "300 VES",
+        "max_amount": "4000 VES",
+        "completion_rate": "95.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "cambiosM",
+        "price": "39.710 VES",
+        "available_usdt": "100.00",
+        "min_amount": "280 VES",
+        "max_amount": "4000 VES",
+        "completion_rate": "0.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "alejo",
+        "price": "39.001 VES",
+        "available_usdt": "300.00",
+        "min_amount": "280 VES",
+        "max_amount": "10000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-94c0a9wv",
+        "price": "39.000 VES",
+        "available_usdt": "600.00",
+        "min_amount": "1500 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "66.70%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Lopez0",
+        "price": "38.760 VES",
+        "available_usdt": "231.00",
+        "min_amount": "280 VES",
+        "max_amount": "9000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-53179dw6",
+        "price": "38.500 VES",
+        "available_usdt": "500.00",
+        "min_amount": "500 VES",
+        "max_amount": "2500 VES",
+        "completion_rate": "80.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "JoaquinMarquez",
+        "price": "38.500 VES",
+        "available_usdt": "100.00",
+        "min_amount": "280 VES",
+        "max_amount": "8000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Carolaruiz7",
+        "price": "38.002 VES",
+        "available_usdt": "220.00",
+        "min_amount": "380 VES",
+        "max_amount": "8000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Bancamiga"
+    },
+    {
+        "seller": "P2P-c6532e2g",
+        "price": "38.000 VES",
+        "available_usdt": "110.00",
+        "min_amount": "2000 VES",
+        "max_amount": "4200 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "",
+        "price": "37.860 VES",
+        "available_usdt": "2215.07",
+        "min_amount": "7000 VES",
+        "max_amount": "200000 VES",
+        "completion_rate": "0.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Haiwai_YG",
+        "price": "37.750 VES",
+        "available_usdt": "139.70",
+        "min_amount": "280 VES",
+        "max_amount": "12000 VES",
+        "completion_rate": "0.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "gdomoromo",
+        "price": "37.500 VES",
+        "available_usdt": "490.00",
+        "min_amount": "7000 VES",
+        "max_amount": "18375 VES",
+        "completion_rate": "97.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "P2P-54bb2edv",
+        "price": "37.500 VES",
+        "available_usdt": "400.00",
+        "min_amount": "280 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "0.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "JoseN0x",
+        "price": "37.500 VES",
+        "available_usdt": "111.00",
+        "min_amount": "1900 VES",
+        "max_amount": "4162 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-abebc443",
+        "price": "37.429 VES",
+        "available_usdt": "100.00",
+        "min_amount": "280 VES",
+        "max_amount": "3743 VES",
+        "completion_rate": "66.70%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "kim_cambio",
+        "price": "37.000 VES",
+        "available_usdt": "600.00",
+        "min_amount": "280 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-2a8300s7",
+        "price": "36.830 VES",
+        "available_usdt": "100.00",
+        "min_amount": "280 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Daniel2406",
+        "price": "36.430 VES",
+        "available_usdt": "100.00",
+        "min_amount": "370 VES",
+        "max_amount": "3643 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "ALIADOS-EYEJHH",
+        "price": "36.330 VES",
+        "available_usdt": "121.13",
+        "min_amount": "280 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Juankmolinb",
+        "price": "36.250 VES",
+        "available_usdt": "100.00",
+        "min_amount": "280 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "0.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Criptofuturo",
+        "price": "36.220 VES",
+        "available_usdt": "100.00",
+        "min_amount": "280 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "P2P-62fb82wj",
+        "price": "36.120 VES",
+        "available_usdt": "2500.00",
+        "min_amount": "50000 VES",
+        "max_amount": "100000 VES",
+        "completion_rate": "0.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "ANGELA",
+        "price": "36.100 VES",
+        "available_usdt": "100.00",
+        "min_amount": "280 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "EliRTRADER",
+        "price": "36.010 VES",
+        "available_usdt": "100.00",
+        "min_amount": "280 VES",
+        "max_amount": "3900 VES",
+        "completion_rate": "0.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "CAMBIOSMENDOZA",
+        "price": "35.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "1000 VES",
+        "max_amount": "3500 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "P2P-7f00betv",
+        "price": "34.910 VES",
+        "available_usdt": "300.00",
+        "min_amount": "280 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Ideascoin",
+        "price": "33.000 VES",
+        "available_usdt": "606.00",
+        "min_amount": "330 VES",
+        "max_amount": "20022 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "DolaresEnVzla",
+        "price": "32.491 VES",
+        "available_usdt": "5088.05",
+        "min_amount": "195 VES",
+        "max_amount": "612 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "AngusVenezuela",
+        "price": "32.000 VES",
+        "available_usdt": "1000.00",
+        "min_amount": "320 VES",
+        "max_amount": "3200 VES",
+        "completion_rate": "0.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Naimsamir",
+        "price": "32.000 VES",
+        "available_usdt": "100.00",
+        "min_amount": "195 VES",
+        "max_amount": "3200 VES",
+        "completion_rate": "0.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "valentich",
+        "price": "30.300 VES",
+        "available_usdt": "351.64",
+        "min_amount": "300 VES",
+        "max_amount": "450000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "jhoancho19",
+        "price": "28.250 VES",
+        "available_usdt": "1500.00",
+        "min_amount": "40000 VES",
+        "max_amount": "42180 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "hacker 2020",
+        "price": "26.900 VES",
+        "available_usdt": "100.00",
+        "min_amount": "300 VES",
+        "max_amount": "1000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Andres1991",
+        "price": "26.545 VES",
+        "available_usdt": "250.00",
+        "min_amount": "2000 VES",
+        "max_amount": "6636 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "eaguilar10",
+        "price": "24.100 VES",
+        "available_usdt": "100.00",
+        "min_amount": "1000 VES",
+        "max_amount": "1500 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Pago Movil"
+    },
+    {
+        "seller": "Tucasadecambio",
+        "price": "24.070 VES",
+        "available_usdt": "100.00",
+        "min_amount": "10 VES",
+        "max_amount": "150000 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Provincial"
+    },
+    {
+        "seller": "hill",
+        "price": "13.420 VES",
+        "available_usdt": "210.81",
+        "min_amount": "2829 VES",
+        "max_amount": "2830 VES",
+        "completion_rate": "0.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Argecp",
+        "price": "13.260 VES",
+        "available_usdt": "1952.00",
+        "min_amount": "2000 VES",
+        "max_amount": "26000 VES",
+        "completion_rate": "0.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Jean",
+        "price": "5.650 VES",
+        "available_usdt": "430.00",
+        "min_amount": "228 VES",
+        "max_amount": "1300 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "El Leon Blanco",
+        "price": "5.600 VES",
+        "available_usdt": "1950.00",
+        "min_amount": "2000 VES",
+        "max_amount": "50000 VES",
+        "completion_rate": "0.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Marinadene",
+        "price": "5.000 VES",
+        "available_usdt": "20000.00",
+        "min_amount": "10000 VES",
+        "max_amount": "50000 VES",
+        "completion_rate": "0.00%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "GineMARIN",
+        "price": "4.520 VES",
+        "available_usdt": "493.00",
+        "min_amount": "2228 VES",
+        "max_amount": "2229 VES",
+        "completion_rate": "98.40%",
+        "trade_method": "Banesco"
+    },
+    {
+        "seller": "Cema0303",
+        "price": "4.440 VES",
+        "available_usdt": "800.00",
+        "min_amount": "222 VES",
+        "max_amount": "3552 VES",
+        "completion_rate": "100.00%",
+        "trade_method": "Banesco"
+    }
+]
